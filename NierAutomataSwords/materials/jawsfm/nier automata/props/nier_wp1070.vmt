@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{        
+
+	$basetexture "JawSFM/Nier Automata/Props/wp1070_dif"
+	$bumpmap    "JawSFM/Nier Automata/Props/wp1070_nrm"
+	$surfaceprop "wood"
+}

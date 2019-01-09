@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{      
+
+		$basetexture "JawSFM/Nier Automata/Props/wp1500_dif"
+		$bumpmap    "JawSFM/Nier Automata/Props/wp1500_nrm"
+
+		"$phong" 1
+		"$phongboost" 4
+		"$phongexponent" 10
+		"$phongfresnelranges" "[0.5 1 3]"
+		"$phongalbedotint" 1
+		"$phongtint" "[0.4 0.4 0.4]"
+
+		"$surfaceprop" "metal"
+	
+		"$rimlight" 1
+		"$rimlightboost" "0.2"
+}
+
+  
+

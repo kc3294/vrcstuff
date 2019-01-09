@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{        
+	$basetexture "JawSFM/Nier Automata/Props/wpf600_dif"
+	$bumpmap    "JawSFM/Nier Automata/Props/wpf600_nrm"
+
+    "$surfaceprop" "metal"
+
+    "$phong" 1
+    "$phongboost" 4
+    "$phongexponent" 12
+    "$phongfresnelranges" "[0.5 1 3]"
+    "$phongwarptexture" "JawSFM/Nier Automata/Props/phongwarpMetal" 
+    "$phongalbedotint" 1
+    "$phongtint" "[0.6 0.6 0.6]"
+
+    "$envmap" "env_cubemap"
+    "$envmapsaturation" .5
+    "$envmapcontrast" .5
+    "$envmaptint" "[0.1 0.1 0.1]"
+
+    "$rimlight" 1
+    "$rimlightboost" "0.2"
+}
