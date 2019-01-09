@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 92678f2ffa5816745822a22dda59c2b4
+timeCreated: 1538142704
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 28_ska1_0_0.5_25.001
+    100002: 28_ska1_0_0.5_25.002
+    100004: 28_ska1_0_0.5_25.003
+    100006: 28_ska1_0_0.5_25.004
+    100008: 28_ska1_0_0.5_25.005
+    100010: 28_ska1_0_0.5_25.006
+    100012: 28_ska1_0_0.5_25.007
+    100014: 28_ska1_0_0.5_25.008
+    100016: 28_ska1_0_0.5_25.013
+    100018: 28_ska1_0_0.5_25.014
+    100020: 28_ska1_0_0.5_25.015
+    100022: 28_ska1_0_0.5_25.016
+    100024: 28_ska1_0_0.5_25.017
+    100026: 28_ska1_0_0.5_25.018
+    100028: 28_ska1_0_0.5_25.019
+    100030: 28_ska1_0_0.5_25.020
+    100032: 28_ska2_0_0.5_25.001
+    100034: 28_ska2_0_0.5_25.002
+    100036: 28_ska2_0_0.5_25.003
+    100038: 28_ska2_0_0.5_25.004
+    100040: 28_ska2_0_0.5_25.005
+    100042: 28_ska2_0_0.5_25.006
+    100044: 28_ska2_0_0.5_25.007
+    100046: 28_ska2_0_0.5_25.008
+    100048: 28_ska2_0_0.5_25.013
+    100050: 28_ska2_0_0.5_25.014
+    100052: 28_ska2_0_0.5_25.015
+    100054: 28_ska2_0_0.5_25.016
+    100056: 28_ska2_0_0.5_25.017
+    100058: 28_ska2_0_0.5_25.018
+    100060: 28_ska2_0_0.5_25.019
+    100062: 28_ska2_0_0.5_25.020
+    100064: 28_ska3_0_0.5_25.001
+    100066: 28_ska3_0_0.5_25.002
+    100068: 28_ska3_0_0.5_25.003
+    100070: 28_ska3_0_0.5_25.004
+    100072: 28_ska3_0_0.5_25.005
+    100074: 28_ska3_0_0.5_25.006
+    100076: 28_ska3_0_0.5_25.007
+    100078: 28_ska3_0_0.5_25.008
+    100080: 28_ska3_0_0.5_25.013
+    100082: 28_ska3_0_0.5_25.014
+    100084: 28_ska3_0_0.5_25.015
+    100086: 28_ska3_0_0.5_25.016
+    100088: 28_ska3_0_0.5_25.017
+    100090: 28_ska3_0_0.5_25.018
+    100092: 28_ska3_0_0.5_25.019
+    100094: 28_ska3_0_0.5_25.020
+    100096: 28_ska4_0_0.5_25.001
+    100098: 28_ska4_0_0.5_25.002
+    100100: 28_ska4_0_0.5_25.003
+    100102: 28_ska4_0_0.5_25.004
+    100104: 28_ska4_0_0.5_25.005
+    100106: 28_ska4_0_0.5_25.006
+    100108: 28_ska4_0_0.5_25.007
+    100110: 28_ska4_0_0.5_25.008
+    100112: 28_ska4_0_0.5_25.013
+    100114: 28_ska4_0_0.5_25.014
+    100116: 28_ska4_0_0.5_25.015
+    100118: 28_ska4_0_0.5_25.016
+    100120: 28_ska4_0_0.5_25.017
+    100122: 28_ska4_0_0.5_25.018
+    100124: 28_ska4_0_0.5_25.019
+    100126: 28_ska4_0_0.5_25.020
+    100128: 28_ska5_0_0.5_25.001
+    100130: 28_ska5_0_0.5_25.002
+    100132: 28_ska5_0_0.5_25.003
+    100134: 28_ska5_0_0.5_25.004
+    100136: 28_ska5_0_0.5_25.005
+    100138: 28_ska5_0_0.5_25.006
+    100140: 28_ska5_0_0.5_25.007
+    100142: 28_ska5_0_0.5_25.008
+    100144: 28_ska5_0_0.5_25.013
+    100146: 28_ska5_0_0.5_25.014
+    100148: 28_ska5_0_0.5_25.015
+    100150: 28_ska5_0_0.5_25.016
+    100152: 28_ska5_0_0.5_25.017
+    100154: 28_ska5_0_0.5_25.018
+    100156: 28_ska5_0_0.5_25.019
+    100158: 28_ska5_0_0.5_25.020
+    100160: 28_ska6_0_0.5_25.001
+    100162: 28_ska6_0_0.5_25.002
+    100164: 28_ska6_0_0.5_25.003
+    100166: 28_ska6_0_0.5_25.004
+    100168: 28_ska6_0_0.5_25.005
+    100170: 28_ska6_0_0.5_25.006
+    100172: 28_ska6_0_0.5_25.007
+    100174: 28_ska6_0_0.5_25.008
+    100176: 28_ska6_0_0.5_25.013
+    100178: 28_ska6_0_0.5_25.014
+    100180: 28_ska6_0_0.5_25.015
+    100182: 28_ska6_0_0.5_25.016
+    100184: 28_ska6_0_0.5_25.017
+    100186: 28_ska6_0_0.5_25.018
+    100188: 28_ska6_0_0.5_25.019
+    100190: 28_ska6_0_0.5_25.020
+    100192: Armature
+    100194: leg a base
+    100196: leg a base_end
+    100198: leg b base
+    100200: leg b base_end
+    100202: metal skirt back left a 1
+    100204: metal skirt back left a 2
+    100206: metal skirt back left a 3
+    100208: metal skirt back left a 4
+    100210: metal skirt back left a 5
+    100212: metal skirt back left a 6
+    100214: metal skirt back left a 6_end
+    100216: metal skirt back left b 1
+    100218: metal skirt back left b 2
+    100220: metal skirt back left b 3
+    100222: metal skirt back left b 4
+    100224: metal skirt back left b 5
+    100226: metal skirt back left b 6
+    100228: metal skirt back left b 6_end
+    100230: metal skirt back middle 1
+    100232: metal skirt back middle 2
+    100234: metal skirt back middle 3
+    100236: metal skirt back middle 4
+    100238: metal skirt back middle 5
+    100240: metal skirt back middle 6
+    100242: metal skirt back middle 6_end
+    100244: metal skirt back right a 1
+    100246: metal skirt back right a 2
+    100248: metal skirt back right a 3
+    100250: metal skirt back right a 4
+    100252: metal skirt back right a 5
+    100254: metal skirt back right a 6
+    100256: metal skirt back right a 6_end
+    100258: metal skirt back right b 1
+    100260: metal skirt back right b 2
+    100262: metal skirt back right b 3
+    100264: metal skirt back right b 4
+    100266: metal skirt back right b 5
+    100268: metal skirt back right b 6
+    100270: metal skirt back right b 6_end
+    100272: metal skirt front left a 1
+    100274: metal skirt front left a 2
+    100276: metal skirt front left a 3
+    100278: metal skirt front left a 4
+    100280: metal skirt front left a 5
+    100282: metal skirt front left a 6
+    100284: metal skirt front left a 6_end
+    100286: metal skirt front left b 1
+    100288: metal skirt front left b 2
+    100290: metal skirt front left b 3
+    100292: metal skirt front left b 4
+    100294: metal skirt front left b 5
+    100296: metal skirt front left b 6
+    100298: metal skirt front left b 6_end
+    100300: metal skirt front middle 1
+    100302: metal skirt front middle 2
+    100304: metal skirt front middle 3
+    100306: metal skirt front middle 4
+    100308: metal skirt front middle 5
+    100310: metal skirt front middle 6
+    100312: metal skirt front middle 6_end
+    100314: metal skirt front right a 1
+    100316: metal skirt front right a 2
+    100318: metal skirt front right a 3
+    100320: metal skirt front right a 4
+    100322: metal skirt front right a 5
+    100324: metal skirt front right a 6
+    100326: metal skirt front right a 6_end
+    100328: metal skirt front right b 1
+    100330: metal skirt front right b 2
+    100332: metal skirt front right b 3
+    100334: metal skirt front right b 4
+    100336: metal skirt front right b 5
+    100338: metal skirt front right b 6
+    100340: metal skirt front right b 6_end
+    100342: metal skirt left 1
+    100344: metal skirt left 2
+    100346: metal skirt left 3
+    100348: metal skirt left 4
+    100350: metal skirt left 5
+    100352: metal skirt left 6
+    100354: metal skirt left 6_end
+    100356: metal skirt right 1
+    100358: metal skirt right 2
+    100360: metal skirt right 3
+    100362: metal skirt right 4
+    100364: metal skirt right 5
+    100366: metal skirt right 6
+    100368: metal skirt right 6_end
+    100370: //RootNode
+    100372: pelvis 1
+    100374: pelvis 2
+    100376: pelvis 3
+    100378: pelvis 5
+    100380: root hips
+    100382: skirt back left a 1
+    100384: skirt back left a 2
+    100386: skirt back left a 3
+    100388: skirt back left a 4
+    100390: skirt back left a 4_end
+    100392: skirt back left b 1
+    100394: skirt back left b 2
+    100396: skirt back left b 3
+    100398: skirt back left b 4
+    100400: skirt back left b 4_end
+    100402: skirt back middle 1
+    100404: skirt back middle 2
+    100406: skirt back middle 3
+    100408: skirt back middle 4
+    100410: skirt back middle 4_end
+    100412: skirt back right a 1
+    100414: skirt back right a 2
+    100416: skirt back right a 3
+    100418: skirt back right a 4
+    100420: skirt back right a 4_end
+    100422: skirt back right b 1
+    100424: skirt back right b 2
+    100426: skirt back right b 3
+    100428: skirt back right b 4
+    100430: skirt back right b 4_end
+    100432: skirt front left a 1
+    100434: skirt front left a 2
+    100436: skirt front left a 3
+    100438: skirt front left a 4
+    100440: skirt front left a 4_end
+    100442: skirt front left b 1
+    100444: skirt front left b 2
+    100446: skirt front left b 3
+    100448: skirt front left b 4
+    100450: skirt front left b 4_end
+    100452: skirt front middle 1
+    100454: skirt front middle 2
+    100456: skirt front middle 3
+    100458: skirt front middle 4
+    100460: skirt front middle 4_end
+    100462: skirt front right a 1
+    100464: skirt front right a 2
+    100466: skirt front right a 3
+    100468: skirt front right a 4
+    100470: skirt front right a 4_end
+    100472: skirt front right b 1
+    100474: skirt front right b 2
+    100476: skirt front right b 3
+    100478: skirt front right b 4
+    100480: skirt front right b 4_end
+    100482: skirt root
+    100484: unused metal skirt a base
+    100486: unused metal skirt b base
+    100488: unused metal skirt c base
+    100490: unused metal skirt d base
+    100492: unused metal skirt e base
+    100494: unused metal skirt f base
+    400000: 28_ska1_0_0.5_25.001
+    400002: 28_ska1_0_0.5_25.002
+    400004: 28_ska1_0_0.5_25.003
+    400006: 28_ska1_0_0.5_25.004
+    400008: 28_ska1_0_0.5_25.005
+    400010: 28_ska1_0_0.5_25.006
+    400012: 28_ska1_0_0.5_25.007
+    400014: 28_ska1_0_0.5_25.008
+    400016: 28_ska1_0_0.5_25.013
+    400018: 28_ska1_0_0.5_25.014
+    400020: 28_ska1_0_0.5_25.015
+    400022: 28_ska1_0_0.5_25.016
+    400024: 28_ska1_0_0.5_25.017
+    400026: 28_ska1_0_0.5_25.018
+    400028: 28_ska1_0_0.5_25.019
+    400030: 28_ska1_0_0.5_25.020
+    400032: 28_ska2_0_0.5_25.001
+    400034: 28_ska2_0_0.5_25.002
+    400036: 28_ska2_0_0.5_25.003
+    400038: 28_ska2_0_0.5_25.004
+    400040: 28_ska2_0_0.5_25.005
+    400042: 28_ska2_0_0.5_25.006
+    400044: 28_ska2_0_0.5_25.007
+    400046: 28_ska2_0_0.5_25.008
+    400048: 28_ska2_0_0.5_25.013
+    400050: 28_ska2_0_0.5_25.014
+    400052: 28_ska2_0_0.5_25.015
+    400054: 28_ska2_0_0.5_25.016
+    400056: 28_ska2_0_0.5_25.017
+    400058: 28_ska2_0_0.5_25.018
+    400060: 28_ska2_0_0.5_25.019
+    400062: 28_ska2_0_0.5_25.020
+    400064: 28_ska3_0_0.5_25.001
+    400066: 28_ska3_0_0.5_25.002
+    400068: 28_ska3_0_0.5_25.003
+    400070: 28_ska3_0_0.5_25.004
+    400072: 28_ska3_0_0.5_25.005
+    400074: 28_ska3_0_0.5_25.006
+    400076: 28_ska3_0_0.5_25.007
+    400078: 28_ska3_0_0.5_25.008
+    400080: 28_ska3_0_0.5_25.013
+    400082: 28_ska3_0_0.5_25.014
+    400084: 28_ska3_0_0.5_25.015
+    400086: 28_ska3_0_0.5_25.016
+    400088: 28_ska3_0_0.5_25.017
+    400090: 28_ska3_0_0.5_25.018
+    400092: 28_ska3_0_0.5_25.019
+    400094: 28_ska3_0_0.5_25.020
+    400096: 28_ska4_0_0.5_25.001
+    400098: 28_ska4_0_0.5_25.002
+    400100: 28_ska4_0_0.5_25.003
+    400102: 28_ska4_0_0.5_25.004
+    400104: 28_ska4_0_0.5_25.005
+    400106: 28_ska4_0_0.5_25.006
+    400108: 28_ska4_0_0.5_25.007
+    400110: 28_ska4_0_0.5_25.008
+    400112: 28_ska4_0_0.5_25.013
+    400114: 28_ska4_0_0.5_25.014
+    400116: 28_ska4_0_0.5_25.015
+    400118: 28_ska4_0_0.5_25.016
+    400120: 28_ska4_0_0.5_25.017
+    400122: 28_ska4_0_0.5_25.018
+    400124: 28_ska4_0_0.5_25.019
+    400126: 28_ska4_0_0.5_25.020
+    400128: 28_ska5_0_0.5_25.001
+    400130: 28_ska5_0_0.5_25.002
+    400132: 28_ska5_0_0.5_25.003
+    400134: 28_ska5_0_0.5_25.004
+    400136: 28_ska5_0_0.5_25.005
+    400138: 28_ska5_0_0.5_25.006
+    400140: 28_ska5_0_0.5_25.007
+    400142: 28_ska5_0_0.5_25.008
+    400144: 28_ska5_0_0.5_25.013
+    400146: 28_ska5_0_0.5_25.014
+    400148: 28_ska5_0_0.5_25.015
+    400150: 28_ska5_0_0.5_25.016
+    400152: 28_ska5_0_0.5_25.017
+    400154: 28_ska5_0_0.5_25.018
+    400156: 28_ska5_0_0.5_25.019
+    400158: 28_ska5_0_0.5_25.020
+    400160: 28_ska6_0_0.5_25.001
+    400162: 28_ska6_0_0.5_25.002
+    400164: 28_ska6_0_0.5_25.003
+    400166: 28_ska6_0_0.5_25.004
+    400168: 28_ska6_0_0.5_25.005
+    400170: 28_ska6_0_0.5_25.006
+    400172: 28_ska6_0_0.5_25.007
+    400174: 28_ska6_0_0.5_25.008
+    400176: 28_ska6_0_0.5_25.013
+    400178: 28_ska6_0_0.5_25.014
+    400180: 28_ska6_0_0.5_25.015
+    400182: 28_ska6_0_0.5_25.016
+    400184: 28_ska6_0_0.5_25.017
+    400186: 28_ska6_0_0.5_25.018
+    400188: 28_ska6_0_0.5_25.019
+    400190: 28_ska6_0_0.5_25.020
+    400192: Armature
+    400194: leg a base
+    400196: leg a base_end
+    400198: leg b base
+    400200: leg b base_end
+    400202: metal skirt back left a 1
+    400204: metal skirt back left a 2
+    400206: metal skirt back left a 3
+    400208: metal skirt back left a 4
+    400210: metal skirt back left a 5
+    400212: metal skirt back left a 6
+    400214: metal skirt back left a 6_end
+    400216: metal skirt back left b 1
+    400218: metal skirt back left b 2
+    400220: metal skirt back left b 3
+    400222: metal skirt back left b 4
+    400224: metal skirt back left b 5
+    400226: metal skirt back left b 6
+    400228: metal skirt back left b 6_end
+    400230: metal skirt back middle 1
+    400232: metal skirt back middle 2
+    400234: metal skirt back middle 3
+    400236: metal skirt back middle 4
+    400238: metal skirt back middle 5
+    400240: metal skirt back middle 6
+    400242: metal skirt back middle 6_end
+    400244: metal skirt back right a 1
+    400246: metal skirt back right a 2
+    400248: metal skirt back right a 3
+    400250: metal skirt back right a 4
+    400252: metal skirt back right a 5
+    400254: metal skirt back right a 6
+    400256: metal skirt back right a 6_end
+    400258: metal skirt back right b 1
+    400260: metal skirt back right b 2
+    400262: metal skirt back right b 3
+    400264: metal skirt back right b 4
+    400266: metal skirt back right b 5
+    400268: metal skirt back right b 6
+    400270: metal skirt back right b 6_end
+    400272: metal skirt front left a 1
+    400274: metal skirt front left a 2
+    400276: metal skirt front left a 3
+    400278: metal skirt front left a 4
+    400280: metal skirt front left a 5
+    400282: metal skirt front left a 6
+    400284: metal skirt front left a 6_end
+    400286: metal skirt front left b 1
+    400288: metal skirt front left b 2
+    400290: metal skirt front left b 3
+    400292: metal skirt front left b 4
+    400294: metal skirt front left b 5
+    400296: metal skirt front left b 6
+    400298: metal skirt front left b 6_end
+    400300: metal skirt front middle 1
+    400302: metal skirt front middle 2
+    400304: metal skirt front middle 3
+    400306: metal skirt front middle 4
+    400308: metal skirt front middle 5
+    400310: metal skirt front middle 6
+    400312: metal skirt front middle 6_end
+    400314: metal skirt front right a 1
+    400316: metal skirt front right a 2
+    400318: metal skirt front right a 3
+    400320: metal skirt front right a 4
+    400322: metal skirt front right a 5
+    400324: metal skirt front right a 6
+    400326: metal skirt front right a 6_end
+    400328: metal skirt front right b 1
+    400330: metal skirt front right b 2
+    400332: metal skirt front right b 3
+    400334: metal skirt front right b 4
+    400336: metal skirt front right b 5
+    400338: metal skirt front right b 6
+    400340: metal skirt front right b 6_end
+    400342: metal skirt left 1
+    400344: metal skirt left 2
+    400346: metal skirt left 3
+    400348: metal skirt left 4
+    400350: metal skirt left 5
+    400352: metal skirt left 6
+    400354: metal skirt left 6_end
+    400356: metal skirt right 1
+    400358: metal skirt right 2
+    400360: metal skirt right 3
+    400362: metal skirt right 4
+    400364: metal skirt right 5
+    400366: metal skirt right 6
+    400368: metal skirt right 6_end
+    400370: //RootNode
+    400372: pelvis 1
+    400374: pelvis 2
+    400376: pelvis 3
+    400378: pelvis 5
+    400380: root hips
+    400382: skirt back left a 1
+    400384: skirt back left a 2
+    400386: skirt back left a 3
+    400388: skirt back left a 4
+    400390: skirt back left a 4_end
+    400392: skirt back left b 1
+    400394: skirt back left b 2
+    400396: skirt back left b 3
+    400398: skirt back left b 4
+    400400: skirt back left b 4_end
+    400402: skirt back middle 1
+    400404: skirt back middle 2
+    400406: skirt back middle 3
+    400408: skirt back middle 4
+    400410: skirt back middle 4_end
+    400412: skirt back right a 1
+    400414: skirt back right a 2
+    400416: skirt back right a 3
+    400418: skirt back right a 4
+    400420: skirt back right a 4_end
+    400422: skirt back right b 1
+    400424: skirt back right b 2
+    400426: skirt back right b 3
+    400428: skirt back right b 4
+    400430: skirt back right b 4_end
+    400432: skirt front left a 1
+    400434: skirt front left a 2
+    400436: skirt front left a 3
+    400438: skirt front left a 4
+    400440: skirt front left a 4_end
+    400442: skirt front left b 1
+    400444: skirt front left b 2
+    400446: skirt front left b 3
+    400448: skirt front left b 4
+    400450: skirt front left b 4_end
+    400452: skirt front middle 1
+    400454: skirt front middle 2
+    400456: skirt front middle 3
+    400458: skirt front middle 4
+    400460: skirt front middle 4_end
+    400462: skirt front right a 1
+    400464: skirt front right a 2
+    400466: skirt front right a 3
+    400468: skirt front right a 4
+    400470: skirt front right a 4_end
+    400472: skirt front right b 1
+    400474: skirt front right b 2
+    400476: skirt front right b 3
+    400478: skirt front right b 4
+    400480: skirt front right b 4_end
+    400482: skirt root
+    400484: unused metal skirt a base
+    400486: unused metal skirt b base
+    400488: unused metal skirt c base
+    400490: unused metal skirt d base
+    400492: unused metal skirt e base
+    400494: unused metal skirt f base
+    4300000: 28_ska1_0_0.5_25.020
+    4300002: 28_ska1_0_0.5_25.019
+    4300004: 28_ska1_0_0.5_25.018
+    4300006: 28_ska1_0_0.5_25.017
+    4300008: 28_ska1_0_0.5_25.016
+    4300010: 28_ska1_0_0.5_25.015
+    4300012: 28_ska1_0_0.5_25.014
+    4300014: 28_ska1_0_0.5_25.013
+    4300016: 28_ska1_0_0.5_25.008
+    4300018: 28_ska1_0_0.5_25.007
+    4300020: 28_ska1_0_0.5_25.006
+    4300022: 28_ska1_0_0.5_25.005
+    4300024: 28_ska1_0_0.5_25.004
+    4300026: 28_ska1_0_0.5_25.003
+    4300028: 28_ska1_0_0.5_25.002
+    4300030: 28_ska1_0_0.5_25.001
+    4300032: 28_ska6_0_0.5_25.020
+    4300034: 28_ska6_0_0.5_25.019
+    4300036: 28_ska6_0_0.5_25.018
+    4300038: 28_ska6_0_0.5_25.017
+    4300040: 28_ska6_0_0.5_25.016
+    4300042: 28_ska6_0_0.5_25.015
+    4300044: 28_ska6_0_0.5_25.014
+    4300046: 28_ska6_0_0.5_25.013
+    4300048: 28_ska6_0_0.5_25.008
+    4300050: 28_ska6_0_0.5_25.007
+    4300052: 28_ska6_0_0.5_25.006
+    4300054: 28_ska6_0_0.5_25.005
+    4300056: 28_ska6_0_0.5_25.004
+    4300058: 28_ska6_0_0.5_25.003
+    4300060: 28_ska6_0_0.5_25.002
+    4300062: 28_ska6_0_0.5_25.001
+    4300064: 28_ska5_0_0.5_25.020
+    4300066: 28_ska5_0_0.5_25.019
+    4300068: 28_ska5_0_0.5_25.018
+    4300070: 28_ska5_0_0.5_25.017
+    4300072: 28_ska5_0_0.5_25.016
+    4300074: 28_ska5_0_0.5_25.015
+    4300076: 28_ska5_0_0.5_25.014
+    4300078: 28_ska5_0_0.5_25.013
+    4300080: 28_ska5_0_0.5_25.008
+    4300082: 28_ska5_0_0.5_25.007
+    4300084: 28_ska5_0_0.5_25.006
+    4300086: 28_ska5_0_0.5_25.005
+    4300088: 28_ska5_0_0.5_25.004
+    4300090: 28_ska5_0_0.5_25.003
+    4300092: 28_ska5_0_0.5_25.002
+    4300094: 28_ska5_0_0.5_25.001
+    4300096: 28_ska4_0_0.5_25.020
+    4300098: 28_ska4_0_0.5_25.019
+    4300100: 28_ska4_0_0.5_25.018
+    4300102: 28_ska4_0_0.5_25.017
+    4300104: 28_ska4_0_0.5_25.016
+    4300106: 28_ska4_0_0.5_25.015
+    4300108: 28_ska4_0_0.5_25.014
+    4300110: 28_ska4_0_0.5_25.013
+    4300112: 28_ska4_0_0.5_25.008
+    4300114: 28_ska4_0_0.5_25.007
+    4300116: 28_ska4_0_0.5_25.006
+    4300118: 28_ska4_0_0.5_25.005
+    4300120: 28_ska4_0_0.5_25.004
+    4300122: 28_ska4_0_0.5_25.003
+    4300124: 28_ska4_0_0.5_25.002
+    4300126: 28_ska4_0_0.5_25.001
+    4300128: 28_ska3_0_0.5_25.020
+    4300130: 28_ska3_0_0.5_25.019
+    4300132: 28_ska3_0_0.5_25.018
+    4300134: 28_ska3_0_0.5_25.017
+    4300136: 28_ska3_0_0.5_25.016
+    4300138: 28_ska3_0_0.5_25.015
+    4300140: 28_ska3_0_0.5_25.014
+    4300142: 28_ska3_0_0.5_25.013
+    4300144: 28_ska3_0_0.5_25.008
+    4300146: 28_ska3_0_0.5_25.007
+    4300148: 28_ska3_0_0.5_25.006
+    4300150: 28_ska3_0_0.5_25.005
+    4300152: 28_ska3_0_0.5_25.004
+    4300154: 28_ska3_0_0.5_25.003
+    4300156: 28_ska3_0_0.5_25.002
+    4300158: 28_ska3_0_0.5_25.001
+    4300160: 28_ska2_0_0.5_25.020
+    4300162: 28_ska2_0_0.5_25.019
+    4300164: 28_ska2_0_0.5_25.018
+    4300166: 28_ska2_0_0.5_25.017
+    4300168: 28_ska2_0_0.5_25.016
+    4300170: 28_ska2_0_0.5_25.015
+    4300172: 28_ska2_0_0.5_25.014
+    4300174: 28_ska2_0_0.5_25.013
+    4300176: 28_ska2_0_0.5_25.008
+    4300178: 28_ska2_0_0.5_25.007
+    4300180: 28_ska2_0_0.5_25.006
+    4300182: 28_ska2_0_0.5_25.005
+    4300184: 28_ska2_0_0.5_25.004
+    4300186: 28_ska2_0_0.5_25.003
+    4300188: 28_ska2_0_0.5_25.002
+    4300190: 28_ska2_0_0.5_25.001
+    9500000: //RootNode
+    13700000: 28_ska1_0_0.5_25.001
+    13700002: 28_ska1_0_0.5_25.002
+    13700004: 28_ska1_0_0.5_25.003
+    13700006: 28_ska1_0_0.5_25.004
+    13700008: 28_ska1_0_0.5_25.005
+    13700010: 28_ska1_0_0.5_25.006
+    13700012: 28_ska1_0_0.5_25.007
+    13700014: 28_ska1_0_0.5_25.008
+    13700016: 28_ska1_0_0.5_25.013
+    13700018: 28_ska1_0_0.5_25.014
+    13700020: 28_ska1_0_0.5_25.015
+    13700022: 28_ska1_0_0.5_25.016
+    13700024: 28_ska1_0_0.5_25.017
+    13700026: 28_ska1_0_0.5_25.018
+    13700028: 28_ska1_0_0.5_25.019
+    13700030: 28_ska1_0_0.5_25.020
+    13700032: 28_ska2_0_0.5_25.001
+    13700034: 28_ska2_0_0.5_25.002
+    13700036: 28_ska2_0_0.5_25.003
+    13700038: 28_ska2_0_0.5_25.004
+    13700040: 28_ska2_0_0.5_25.005
+    13700042: 28_ska2_0_0.5_25.006
+    13700044: 28_ska2_0_0.5_25.007
+    13700046: 28_ska2_0_0.5_25.008
+    13700048: 28_ska2_0_0.5_25.013
+    13700050: 28_ska2_0_0.5_25.014
+    13700052: 28_ska2_0_0.5_25.015
+    13700054: 28_ska2_0_0.5_25.016
+    13700056: 28_ska2_0_0.5_25.017
+    13700058: 28_ska2_0_0.5_25.018
+    13700060: 28_ska2_0_0.5_25.019
+    13700062: 28_ska2_0_0.5_25.020
+    13700064: 28_ska3_0_0.5_25.001
+    13700066: 28_ska3_0_0.5_25.002
+    13700068: 28_ska3_0_0.5_25.003
+    13700070: 28_ska3_0_0.5_25.004
+    13700072: 28_ska3_0_0.5_25.005
+    13700074: 28_ska3_0_0.5_25.006
+    13700076: 28_ska3_0_0.5_25.007
+    13700078: 28_ska3_0_0.5_25.008
+    13700080: 28_ska3_0_0.5_25.013
+    13700082: 28_ska3_0_0.5_25.014
+    13700084: 28_ska3_0_0.5_25.015
+    13700086: 28_ska3_0_0.5_25.016
+    13700088: 28_ska3_0_0.5_25.017
+    13700090: 28_ska3_0_0.5_25.018
+    13700092: 28_ska3_0_0.5_25.019
+    13700094: 28_ska3_0_0.5_25.020
+    13700096: 28_ska4_0_0.5_25.001
+    13700098: 28_ska4_0_0.5_25.002
+    13700100: 28_ska4_0_0.5_25.003
+    13700102: 28_ska4_0_0.5_25.004
+    13700104: 28_ska4_0_0.5_25.005
+    13700106: 28_ska4_0_0.5_25.006
+    13700108: 28_ska4_0_0.5_25.007
+    13700110: 28_ska4_0_0.5_25.008
+    13700112: 28_ska4_0_0.5_25.013
+    13700114: 28_ska4_0_0.5_25.014
+    13700116: 28_ska4_0_0.5_25.015
+    13700118: 28_ska4_0_0.5_25.016
+    13700120: 28_ska4_0_0.5_25.017
+    13700122: 28_ska4_0_0.5_25.018
+    13700124: 28_ska4_0_0.5_25.019
+    13700126: 28_ska4_0_0.5_25.020
+    13700128: 28_ska5_0_0.5_25.001
+    13700130: 28_ska5_0_0.5_25.002
+    13700132: 28_ska5_0_0.5_25.003
+    13700134: 28_ska5_0_0.5_25.004
+    13700136: 28_ska5_0_0.5_25.005
+    13700138: 28_ska5_0_0.5_25.006
+    13700140: 28_ska5_0_0.5_25.007
+    13700142: 28_ska5_0_0.5_25.008
+    13700144: 28_ska5_0_0.5_25.013
+    13700146: 28_ska5_0_0.5_25.014
+    13700148: 28_ska5_0_0.5_25.015
+    13700150: 28_ska5_0_0.5_25.016
+    13700152: 28_ska5_0_0.5_25.017
+    13700154: 28_ska5_0_0.5_25.018
+    13700156: 28_ska5_0_0.5_25.019
+    13700158: 28_ska5_0_0.5_25.020
+    13700160: 28_ska6_0_0.5_25.001
+    13700162: 28_ska6_0_0.5_25.002
+    13700164: 28_ska6_0_0.5_25.003
+    13700166: 28_ska6_0_0.5_25.004
+    13700168: 28_ska6_0_0.5_25.005
+    13700170: 28_ska6_0_0.5_25.006
+    13700172: 28_ska6_0_0.5_25.007
+    13700174: 28_ska6_0_0.5_25.008
+    13700176: 28_ska6_0_0.5_25.013
+    13700178: 28_ska6_0_0.5_25.014
+    13700180: 28_ska6_0_0.5_25.015
+    13700182: 28_ska6_0_0.5_25.016
+    13700184: 28_ska6_0_0.5_25.017
+    13700186: 28_ska6_0_0.5_25.018
+    13700188: 28_ska6_0_0.5_25.019
+    13700190: 28_ska6_0_0.5_25.020
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

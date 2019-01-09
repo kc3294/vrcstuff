@@ -1,0 +1,3812 @@
+fileFormatVersion: 2
+guid: 2ede6c2108470d2489628fc98643fe48
+timeCreated: 1536858619
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 25_+skirt.skirt2_1_0_0
+    100002: 26_-blade.blade_0.5_0_0
+    100004: 28_-leg.underparts3_0_0.5_25
+    100006: 28_-undmons.undmons_0_0.5_25
+    100008: 28_chain_0_0.5_25
+    100010: 28_ska6_0_0.5_25
+    100012: arm left elbow
+    100014: arm left finger 1a
+    100016: arm left finger 1b
+    100018: arm left finger 1c
+    100020: arm left finger 1c_end
+    100022: arm left finger 2a
+    100024: arm left finger 2b
+    100026: arm left finger 2c
+    100028: arm left finger 2c_end
+    100030: arm left finger 3a
+    100032: arm left finger 3b
+    100034: arm left finger 3c
+    100036: arm left finger 3c_end
+    100038: arm left finger 4a
+    100040: arm left finger 4b
+    100042: arm left finger 4c
+    100044: arm left finger 4c_end
+    100046: arm left finger 5a
+    100048: arm left finger 5b
+    100050: arm left finger 5c
+    100052: arm left finger 5c_end
+    100054: arm left shoulder 1
+    100056: arm left shoulder 2
+    100058: arm left shoulder pad
+    100060: arm left shoulder pad_end
+    100062: arm left wrist
+    100064: arm right elbow
+    100066: arm right finger 1a
+    100068: arm right finger 1b
+    100070: arm right finger 1c
+    100072: arm right finger 1c_end
+    100074: arm right finger 2a
+    100076: arm right finger 2b
+    100078: arm right finger 2c
+    100080: arm right finger 2c_end
+    100082: arm right finger 3a
+    100084: arm right finger 3b
+    100086: arm right finger 3c
+    100088: arm right finger 3c_end
+    100090: arm right finger 4a
+    100092: arm right finger 4b
+    100094: arm right finger 4c
+    100096: arm right finger 4c_end
+    100098: arm right finger 5a
+    100100: arm right finger 5b
+    100102: arm right finger 5c
+    100104: arm right finger 5c_end
+    100106: arm right shoulder 1
+    100108: arm right shoulder 2
+    100110: arm right shoulder pad
+    100112: arm right shoulder pad_end
+    100114: arm right wrist
+    100116: Armature
+    100118: //RootNode
+    100120: blade
+    100122: blade_end
+    100124: chain left 1
+    100126: chain left 2
+    100128: chain left 3
+    100130: chain left 4
+    100132: chain left 5
+    100134: chain left 6
+    100136: chain left 7
+    100138: chain left 7_end
+    100140: chain right 1
+    100142: chain right 2
+    100144: chain right 3
+    100146: chain right 4
+    100148: chain right 5
+    100150: chain right 6
+    100152: chain right 7
+    100154: chain right 7_end
+    100156: doll root
+    100158: head cap 1
+    100160: head cap 2
+    100162: head cap 2_end
+    100164: head mask
+    100166: head mask_end
+    100168: head neck lower
+    100170: head neck middle
+    100172: head neck upper
+    100174: hips 1
+    100176: hips 2
+    100178: leg a base
+    100180: leg b base
+    100182: leg back ankle
+    100184: leg back ankle hydraulic cylinder 1
+    100186: leg back ankle hydraulic cylinder 1_end
+    100188: leg back ankle hydraulic cylinder 2
+    100190: leg back ankle hydraulic cylinder 2_end
+    100192: leg back knee 1
+    100194: leg back knee 2
+    100196: leg back knee hydraulic cylinder
+    100198: leg back knee hydraulic cylinder_end
+    100200: leg back thigh 1
+    100202: leg back thigh 2
+    100204: leg back thigh hydraulic cylinder
+    100206: leg back thigh hydraulic cylinder_end
+    100208: leg back toes 1
+    100210: leg back toes 1_end
+    100212: leg back toes 2
+    100214: leg back toes 2_end
+    100216: leg back toes 3
+    100218: leg back toes hydraulic cylinder 1
+    100220: leg back toes hydraulic cylinder 1_end
+    100222: leg back toes hydraulic cylinder 2
+    100224: leg back toes hydraulic cylinder 2_end
+    100226: leg front ankle
+    100228: leg front ankle hydraulic cylinder
+    100230: leg front ankle hydraulic cylinder 1
+    100232: leg front ankle hydraulic cylinder 1_end
+    100234: leg front ankle hydraulic cylinder 2
+    100236: leg front ankle hydraulic cylinder 2_end
+    100238: leg front ankle hydraulic cylinder_end
+    100240: leg front knee 1
+    100242: leg front knee 2
+    100244: leg front knee hydraulic cylinder
+    100246: leg front knee hydraulic cylinder_end
+    100248: leg front thigh 1
+    100250: leg front thigh 2
+    100252: leg front thigh hydraulic cylinder
+    100254: leg front thigh hydraulic cylinder_end
+    100256: leg front toes 1
+    100258: leg front toes 1_end
+    100260: leg front toes 2
+    100262: leg front toes 2_end
+    100264: leg front toes 3
+    100266: leg front toes hydraulic cylinder 1
+    100268: leg front toes hydraulic cylinder 1_end
+    100270: leg front toes hydraulic cylinder 2
+    100272: leg front toes hydraulic cylinder 2_end
+    100274: leg left ankle
+    100276: leg left ankle hydraulic cylinder 1
+    100278: leg left ankle hydraulic cylinder 1_end
+    100280: leg left ankle hydraulic cylinder 2
+    100282: leg left ankle hydraulic cylinder 2_end
+    100284: leg left knee 1
+    100286: leg left knee 2
+    100288: leg left thigh 1
+    100290: leg left thigh 2
+    100292: leg left thigh hydraulic cylinder
+    100294: leg left thigh hydraulic cylinder_end
+    100296: leg left toes 1
+    100298: leg left toes 1_end
+    100300: leg left toes 2
+    100302: leg left toes 2_end
+    100304: leg left toes 3
+    100306: leg left toes hydraulic cylinder 1
+    100308: leg left toes hydraulic cylinder 1_end
+    100310: leg left toes hydraulic cylinder 2
+    100312: leg left toes hydraulic cylinder 2_end
+    100314: leg right ankle
+    100316: leg right ankle hydraulic cylinder 1
+    100318: leg right ankle hydraulic cylinder 1_end
+    100320: leg right ankle hydraulic cylinder 2
+    100322: leg right ankle hydraulic cylinder 2_end
+    100324: leg right knee 1
+    100326: leg right knee 2
+    100328: leg right knee hydraulic cylinder
+    100330: leg right knee hydraulic cylinder_end
+    100332: leg right thigh 1
+    100334: leg right thigh 2
+    100336: leg right thigh hydraulic cylinder
+    100338: leg right thigh hydraulic cylinder_end
+    100340: leg right toes 1
+    100342: leg right toes 1_end
+    100344: leg right toes 2
+    100346: leg right toes 2_end
+    100348: leg right toes 3
+    100350: leg right toes hydraulic cylinder 1
+    100352: leg right toes hydraulic cylinder 1_end
+    100354: leg right toes hydraulic cylinder 2
+    100356: leg right toes hydraulic cylinder 2_end
+    100358: lower mob  spine lower 1
+    100360: lower mob  spine lower 2
+    100362: lower mob  spine lower 3
+    100364: lower mob  spine middle 1
+    100366: lower mob  spine middle 2
+    100368: lower mob  spine middle 3
+    100370: lower mob arm left elbow
+    100372: lower mob arm left finger 1a
+    100374: lower mob arm left finger 1b
+    100376: lower mob arm left finger 1c
+    100378: lower mob arm left finger 1c_end
+    100380: lower mob arm left finger 2a
+    100382: lower mob arm left finger 2b
+    100384: lower mob arm left finger 2c
+    100386: lower mob arm left finger 2c_end
+    100388: lower mob arm left finger 3a
+    100390: lower mob arm left finger 3b
+    100392: lower mob arm left finger 3c
+    100394: lower mob arm left finger 3c_end
+    100396: lower mob arm left finger 4a
+    100398: lower mob arm left finger 4b
+    100400: lower mob arm left finger 4c
+    100402: lower mob arm left finger 4c_end
+    100404: lower mob arm left finger 5a
+    100406: lower mob arm left finger 5b
+    100408: lower mob arm left finger 5c
+    100410: lower mob arm left finger 5c_end
+    100412: lower mob arm left shoulder 1
+    100414: lower mob arm left shoulder 2
+    100416: lower mob arm left shoulder 3
+    100418: lower mob arm left wrist
+    100420: lower mob arm right elbow
+    100422: lower mob arm right finger 1a
+    100424: lower mob arm right finger 1b
+    100426: lower mob arm right finger 1c
+    100428: lower mob arm right finger 1c_end
+    100430: lower mob arm right finger 2a
+    100432: lower mob arm right finger 2b
+    100434: lower mob arm right finger 2c
+    100436: lower mob arm right finger 2c_end
+    100438: lower mob arm right finger 3a
+    100440: lower mob arm right finger 3b
+    100442: lower mob arm right finger 3c
+    100444: lower mob arm right finger 3c_end
+    100446: lower mob arm right finger 4a
+    100448: lower mob arm right finger 4b
+    100450: lower mob arm right finger 4c
+    100452: lower mob arm right finger 4c_end
+    100454: lower mob arm right finger 5a
+    100456: lower mob arm right finger 5b
+    100458: lower mob arm right finger 5c
+    100460: lower mob arm right finger 5c_end
+    100462: lower mob arm right shoulder 1
+    100464: lower mob arm right shoulder 2
+    100466: lower mob arm right shoulder 3
+    100468: lower mob arm right wrist
+    100470: lower mob base
+    100472: lower mob jaw
+    100474: lower mob oral
+    100476: lower mob oral_end
+    100478: lower mob spine upper
+    100480: lower mob tooth 1
+    100482: lower mob tooth 1_end
+    100484: lower mob tooth 2
+    100486: lower mob tooth 2_end
+    100488: lower mob tooth 3
+    100490: lower mob tooth 3_end
+    100492: mantle front left 1
+    100494: mantle front left 2
+    100496: mantle front left 3
+    100498: mantle front left 4
+    100500: mantle front left 5
+    100502: mantle front left 6
+    100504: mantle front left 6_end
+    100506: mantle front right 1
+    100508: mantle front right 2
+    100510: mantle front right 3
+    100512: mantle front right 4
+    100514: mantle front right 5
+    100516: mantle front right 6
+    100518: mantle front right 6_end
+    100520: mantle left a 1
+    100522: mantle left a 2
+    100524: mantle left a 3
+    100526: mantle left a 4
+    100528: mantle left a 5
+    100530: mantle left a 6
+    100532: mantle left a 7
+    100534: mantle left a 7_end
+    100536: mantle left b 1
+    100538: mantle left b 2
+    100540: mantle left b 3
+    100542: mantle left b 4
+    100544: mantle left b 5
+    100546: mantle left b 6
+    100548: mantle left b 7
+    100550: mantle left b 7_end
+    100552: mantle left c 1
+    100554: mantle left c 2
+    100556: mantle left c 3
+    100558: mantle left c 4
+    100560: mantle left c 5
+    100562: mantle left c 6
+    100564: mantle left c 7
+    100566: mantle left c 7_end
+    100568: mantle middle 1
+    100570: mantle middle 2
+    100572: mantle middle 3
+    100574: mantle middle 4
+    100576: mantle middle 5
+    100578: mantle middle 6
+    100580: mantle middle 7
+    100582: mantle middle 7_end
+    100584: mantle right a 1
+    100586: mantle right a 2
+    100588: mantle right a 3
+    100590: mantle right a 4
+    100592: mantle right a 5
+    100594: mantle right a 6
+    100596: mantle right a 7
+    100598: mantle right a 7_end
+    100600: mantle right b 1
+    100602: mantle right b 2
+    100604: mantle right b 3
+    100606: mantle right b 4
+    100608: mantle right b 5
+    100610: mantle right b 6
+    100612: mantle right b 7
+    100614: mantle right b 7_end
+    100616: mantle right c 1
+    100618: mantle right c 2
+    100620: mantle right c 3
+    100622: mantle right c 4
+    100624: mantle right c 5
+    100626: mantle right c 6
+    100628: mantle right c 7
+    100630: mantle right c 7_end
+    100632: mantle root
+    100634: metal skirt back left a 1
+    100636: metal skirt back left a 2
+    100638: metal skirt back left a 3
+    100640: metal skirt back left a 4
+    100642: metal skirt back left a 5
+    100644: metal skirt back left a 6
+    100646: metal skirt back left a 6_end
+    100648: metal skirt back left b 1
+    100650: metal skirt back left b 2
+    100652: metal skirt back left b 3
+    100654: metal skirt back left b 4
+    100656: metal skirt back left b 5
+    100658: metal skirt back left b 6
+    100660: metal skirt back left b 6_end
+    100662: metal skirt back middle 1
+    100664: metal skirt back middle 2
+    100666: metal skirt back middle 3
+    100668: metal skirt back middle 4
+    100670: metal skirt back middle 5
+    100672: metal skirt back middle 6
+    100674: metal skirt back middle 6_end
+    100676: metal skirt back right a 1
+    100678: metal skirt back right a 2
+    100680: metal skirt back right a 3
+    100682: metal skirt back right a 4
+    100684: metal skirt back right a 5
+    100686: metal skirt back right a 6
+    100688: metal skirt back right a 6_end
+    100690: metal skirt back right b 1
+    100692: metal skirt back right b 2
+    100694: metal skirt back right b 3
+    100696: metal skirt back right b 4
+    100698: metal skirt back right b 5
+    100700: metal skirt back right b 6
+    100702: metal skirt back right b 6_end
+    100704: metal skirt front left a 1
+    100706: metal skirt front left a 2
+    100708: metal skirt front left a 3
+    100710: metal skirt front left a 4
+    100712: metal skirt front left a 5
+    100714: metal skirt front left a 6
+    100716: metal skirt front left a 6_end
+    100718: metal skirt front left b 1
+    100720: metal skirt front left b 2
+    100722: metal skirt front left b 3
+    100724: metal skirt front left b 4
+    100726: metal skirt front left b 5
+    100728: metal skirt front left b 6
+    100730: metal skirt front left b 6_end
+    100732: metal skirt front middle 1
+    100734: metal skirt front middle 2
+    100736: metal skirt front middle 3
+    100738: metal skirt front middle 4
+    100740: metal skirt front middle 5
+    100742: metal skirt front middle 6
+    100744: metal skirt front middle 6_end
+    100746: metal skirt front right a 1
+    100748: metal skirt front right a 2
+    100750: metal skirt front right a 3
+    100752: metal skirt front right a 4
+    100754: metal skirt front right a 5
+    100756: metal skirt front right a 6
+    100758: metal skirt front right a 6_end
+    100760: metal skirt front right b 1
+    100762: metal skirt front right b 2
+    100764: metal skirt front right b 3
+    100766: metal skirt front right b 4
+    100768: metal skirt front right b 5
+    100770: metal skirt front right b 6
+    100772: metal skirt front right b 6_end
+    100774: metal skirt left 1
+    100776: metal skirt left 2
+    100778: metal skirt left 3
+    100780: metal skirt left 4
+    100782: metal skirt left 5
+    100784: metal skirt left 6
+    100786: metal skirt left 6_end
+    100788: metal skirt right 1
+    100790: metal skirt right 2
+    100792: metal skirt right 3
+    100794: metal skirt right 4
+    100796: metal skirt right 5
+    100798: metal skirt right 6
+    100800: metal skirt right 6_end
+    100802: pelvis 1
+    100804: pelvis 2
+    100806: pelvis 3
+    100808: pelvis 4
+    100810: pelvis 5
+    100812: pelvis 6
+    100814: root ground
+    100816: root hips
+    100818: skirt back left a 1
+    100820: skirt back left a 2
+    100822: skirt back left a 3
+    100824: skirt back left a 4
+    100826: skirt back left a 4_end
+    100828: skirt back left b 1
+    100830: skirt back left b 2
+    100832: skirt back left b 3
+    100834: skirt back left b 4
+    100836: skirt back left b 4_end
+    100838: skirt back middle 1
+    100840: skirt back middle 2
+    100842: skirt back middle 3
+    100844: skirt back middle 4
+    100846: skirt back middle 4_end
+    100848: skirt back right a 1
+    100850: skirt back right a 2
+    100852: skirt back right a 3
+    100854: skirt back right a 4
+    100856: skirt back right a 4_end
+    100858: skirt back right b 1
+    100860: skirt back right b 2
+    100862: skirt back right b 3
+    100864: skirt back right b 4
+    100866: skirt back right b 4_end
+    100868: skirt front left a 1
+    100870: skirt front left a 2
+    100872: skirt front left a 3
+    100874: skirt front left a 4
+    100876: skirt front left a 4_end
+    100878: skirt front left b 1
+    100880: skirt front left b 2
+    100882: skirt front left b 3
+    100884: skirt front left b 4
+    100886: skirt front left b 4_end
+    100888: skirt front middle 1
+    100890: skirt front middle 2
+    100892: skirt front middle 3
+    100894: skirt front middle 4
+    100896: skirt front middle 4_end
+    100898: skirt front right a 1
+    100900: skirt front right a 2
+    100902: skirt front right a 3
+    100904: skirt front right a 4
+    100906: skirt front right a 4_end
+    100908: skirt front right b 1
+    100910: skirt front right b 2
+    100912: skirt front right b 3
+    100914: skirt front right b 4
+    100916: skirt front right b 4_end
+    100918: skirt root
+    100920: spine lower
+    100922: spine middle
+    100924: spine upper
+    100926: unused metal skirt a base
+    100928: unused metal skirt b base
+    100930: unused metal skirt c base
+    100932: unused metal skirt d base
+    100934: unused metal skirt e base
+    100936: unused metal skirt f base
+    400000: 25_+skirt.skirt2_1_0_0
+    400002: 26_-blade.blade_0.5_0_0
+    400004: 28_-leg.underparts3_0_0.5_25
+    400006: 28_-undmons.undmons_0_0.5_25
+    400008: 28_chain_0_0.5_25
+    400010: 28_ska6_0_0.5_25
+    400012: arm left elbow
+    400014: arm left finger 1a
+    400016: arm left finger 1b
+    400018: arm left finger 1c
+    400020: arm left finger 1c_end
+    400022: arm left finger 2a
+    400024: arm left finger 2b
+    400026: arm left finger 2c
+    400028: arm left finger 2c_end
+    400030: arm left finger 3a
+    400032: arm left finger 3b
+    400034: arm left finger 3c
+    400036: arm left finger 3c_end
+    400038: arm left finger 4a
+    400040: arm left finger 4b
+    400042: arm left finger 4c
+    400044: arm left finger 4c_end
+    400046: arm left finger 5a
+    400048: arm left finger 5b
+    400050: arm left finger 5c
+    400052: arm left finger 5c_end
+    400054: arm left shoulder 1
+    400056: arm left shoulder 2
+    400058: arm left shoulder pad
+    400060: arm left shoulder pad_end
+    400062: arm left wrist
+    400064: arm right elbow
+    400066: arm right finger 1a
+    400068: arm right finger 1b
+    400070: arm right finger 1c
+    400072: arm right finger 1c_end
+    400074: arm right finger 2a
+    400076: arm right finger 2b
+    400078: arm right finger 2c
+    400080: arm right finger 2c_end
+    400082: arm right finger 3a
+    400084: arm right finger 3b
+    400086: arm right finger 3c
+    400088: arm right finger 3c_end
+    400090: arm right finger 4a
+    400092: arm right finger 4b
+    400094: arm right finger 4c
+    400096: arm right finger 4c_end
+    400098: arm right finger 5a
+    400100: arm right finger 5b
+    400102: arm right finger 5c
+    400104: arm right finger 5c_end
+    400106: arm right shoulder 1
+    400108: arm right shoulder 2
+    400110: arm right shoulder pad
+    400112: arm right shoulder pad_end
+    400114: arm right wrist
+    400116: Armature
+    400118: //RootNode
+    400120: blade
+    400122: blade_end
+    400124: chain left 1
+    400126: chain left 2
+    400128: chain left 3
+    400130: chain left 4
+    400132: chain left 5
+    400134: chain left 6
+    400136: chain left 7
+    400138: chain left 7_end
+    400140: chain right 1
+    400142: chain right 2
+    400144: chain right 3
+    400146: chain right 4
+    400148: chain right 5
+    400150: chain right 6
+    400152: chain right 7
+    400154: chain right 7_end
+    400156: doll root
+    400158: head cap 1
+    400160: head cap 2
+    400162: head cap 2_end
+    400164: head mask
+    400166: head mask_end
+    400168: head neck lower
+    400170: head neck middle
+    400172: head neck upper
+    400174: hips 1
+    400176: hips 2
+    400178: leg a base
+    400180: leg b base
+    400182: leg back ankle
+    400184: leg back ankle hydraulic cylinder 1
+    400186: leg back ankle hydraulic cylinder 1_end
+    400188: leg back ankle hydraulic cylinder 2
+    400190: leg back ankle hydraulic cylinder 2_end
+    400192: leg back knee 1
+    400194: leg back knee 2
+    400196: leg back knee hydraulic cylinder
+    400198: leg back knee hydraulic cylinder_end
+    400200: leg back thigh 1
+    400202: leg back thigh 2
+    400204: leg back thigh hydraulic cylinder
+    400206: leg back thigh hydraulic cylinder_end
+    400208: leg back toes 1
+    400210: leg back toes 1_end
+    400212: leg back toes 2
+    400214: leg back toes 2_end
+    400216: leg back toes 3
+    400218: leg back toes hydraulic cylinder 1
+    400220: leg back toes hydraulic cylinder 1_end
+    400222: leg back toes hydraulic cylinder 2
+    400224: leg back toes hydraulic cylinder 2_end
+    400226: leg front ankle
+    400228: leg front ankle hydraulic cylinder
+    400230: leg front ankle hydraulic cylinder 1
+    400232: leg front ankle hydraulic cylinder 1_end
+    400234: leg front ankle hydraulic cylinder 2
+    400236: leg front ankle hydraulic cylinder 2_end
+    400238: leg front ankle hydraulic cylinder_end
+    400240: leg front knee 1
+    400242: leg front knee 2
+    400244: leg front knee hydraulic cylinder
+    400246: leg front knee hydraulic cylinder_end
+    400248: leg front thigh 1
+    400250: leg front thigh 2
+    400252: leg front thigh hydraulic cylinder
+    400254: leg front thigh hydraulic cylinder_end
+    400256: leg front toes 1
+    400258: leg front toes 1_end
+    400260: leg front toes 2
+    400262: leg front toes 2_end
+    400264: leg front toes 3
+    400266: leg front toes hydraulic cylinder 1
+    400268: leg front toes hydraulic cylinder 1_end
+    400270: leg front toes hydraulic cylinder 2
+    400272: leg front toes hydraulic cylinder 2_end
+    400274: leg left ankle
+    400276: leg left ankle hydraulic cylinder 1
+    400278: leg left ankle hydraulic cylinder 1_end
+    400280: leg left ankle hydraulic cylinder 2
+    400282: leg left ankle hydraulic cylinder 2_end
+    400284: leg left knee 1
+    400286: leg left knee 2
+    400288: leg left thigh 1
+    400290: leg left thigh 2
+    400292: leg left thigh hydraulic cylinder
+    400294: leg left thigh hydraulic cylinder_end
+    400296: leg left toes 1
+    400298: leg left toes 1_end
+    400300: leg left toes 2
+    400302: leg left toes 2_end
+    400304: leg left toes 3
+    400306: leg left toes hydraulic cylinder 1
+    400308: leg left toes hydraulic cylinder 1_end
+    400310: leg left toes hydraulic cylinder 2
+    400312: leg left toes hydraulic cylinder 2_end
+    400314: leg right ankle
+    400316: leg right ankle hydraulic cylinder 1
+    400318: leg right ankle hydraulic cylinder 1_end
+    400320: leg right ankle hydraulic cylinder 2
+    400322: leg right ankle hydraulic cylinder 2_end
+    400324: leg right knee 1
+    400326: leg right knee 2
+    400328: leg right knee hydraulic cylinder
+    400330: leg right knee hydraulic cylinder_end
+    400332: leg right thigh 1
+    400334: leg right thigh 2
+    400336: leg right thigh hydraulic cylinder
+    400338: leg right thigh hydraulic cylinder_end
+    400340: leg right toes 1
+    400342: leg right toes 1_end
+    400344: leg right toes 2
+    400346: leg right toes 2_end
+    400348: leg right toes 3
+    400350: leg right toes hydraulic cylinder 1
+    400352: leg right toes hydraulic cylinder 1_end
+    400354: leg right toes hydraulic cylinder 2
+    400356: leg right toes hydraulic cylinder 2_end
+    400358: lower mob  spine lower 1
+    400360: lower mob  spine lower 2
+    400362: lower mob  spine lower 3
+    400364: lower mob  spine middle 1
+    400366: lower mob  spine middle 2
+    400368: lower mob  spine middle 3
+    400370: lower mob arm left elbow
+    400372: lower mob arm left finger 1a
+    400374: lower mob arm left finger 1b
+    400376: lower mob arm left finger 1c
+    400378: lower mob arm left finger 1c_end
+    400380: lower mob arm left finger 2a
+    400382: lower mob arm left finger 2b
+    400384: lower mob arm left finger 2c
+    400386: lower mob arm left finger 2c_end
+    400388: lower mob arm left finger 3a
+    400390: lower mob arm left finger 3b
+    400392: lower mob arm left finger 3c
+    400394: lower mob arm left finger 3c_end
+    400396: lower mob arm left finger 4a
+    400398: lower mob arm left finger 4b
+    400400: lower mob arm left finger 4c
+    400402: lower mob arm left finger 4c_end
+    400404: lower mob arm left finger 5a
+    400406: lower mob arm left finger 5b
+    400408: lower mob arm left finger 5c
+    400410: lower mob arm left finger 5c_end
+    400412: lower mob arm left shoulder 1
+    400414: lower mob arm left shoulder 2
+    400416: lower mob arm left shoulder 3
+    400418: lower mob arm left wrist
+    400420: lower mob arm right elbow
+    400422: lower mob arm right finger 1a
+    400424: lower mob arm right finger 1b
+    400426: lower mob arm right finger 1c
+    400428: lower mob arm right finger 1c_end
+    400430: lower mob arm right finger 2a
+    400432: lower mob arm right finger 2b
+    400434: lower mob arm right finger 2c
+    400436: lower mob arm right finger 2c_end
+    400438: lower mob arm right finger 3a
+    400440: lower mob arm right finger 3b
+    400442: lower mob arm right finger 3c
+    400444: lower mob arm right finger 3c_end
+    400446: lower mob arm right finger 4a
+    400448: lower mob arm right finger 4b
+    400450: lower mob arm right finger 4c
+    400452: lower mob arm right finger 4c_end
+    400454: lower mob arm right finger 5a
+    400456: lower mob arm right finger 5b
+    400458: lower mob arm right finger 5c
+    400460: lower mob arm right finger 5c_end
+    400462: lower mob arm right shoulder 1
+    400464: lower mob arm right shoulder 2
+    400466: lower mob arm right shoulder 3
+    400468: lower mob arm right wrist
+    400470: lower mob base
+    400472: lower mob jaw
+    400474: lower mob oral
+    400476: lower mob oral_end
+    400478: lower mob spine upper
+    400480: lower mob tooth 1
+    400482: lower mob tooth 1_end
+    400484: lower mob tooth 2
+    400486: lower mob tooth 2_end
+    400488: lower mob tooth 3
+    400490: lower mob tooth 3_end
+    400492: mantle front left 1
+    400494: mantle front left 2
+    400496: mantle front left 3
+    400498: mantle front left 4
+    400500: mantle front left 5
+    400502: mantle front left 6
+    400504: mantle front left 6_end
+    400506: mantle front right 1
+    400508: mantle front right 2
+    400510: mantle front right 3
+    400512: mantle front right 4
+    400514: mantle front right 5
+    400516: mantle front right 6
+    400518: mantle front right 6_end
+    400520: mantle left a 1
+    400522: mantle left a 2
+    400524: mantle left a 3
+    400526: mantle left a 4
+    400528: mantle left a 5
+    400530: mantle left a 6
+    400532: mantle left a 7
+    400534: mantle left a 7_end
+    400536: mantle left b 1
+    400538: mantle left b 2
+    400540: mantle left b 3
+    400542: mantle left b 4
+    400544: mantle left b 5
+    400546: mantle left b 6
+    400548: mantle left b 7
+    400550: mantle left b 7_end
+    400552: mantle left c 1
+    400554: mantle left c 2
+    400556: mantle left c 3
+    400558: mantle left c 4
+    400560: mantle left c 5
+    400562: mantle left c 6
+    400564: mantle left c 7
+    400566: mantle left c 7_end
+    400568: mantle middle 1
+    400570: mantle middle 2
+    400572: mantle middle 3
+    400574: mantle middle 4
+    400576: mantle middle 5
+    400578: mantle middle 6
+    400580: mantle middle 7
+    400582: mantle middle 7_end
+    400584: mantle right a 1
+    400586: mantle right a 2
+    400588: mantle right a 3
+    400590: mantle right a 4
+    400592: mantle right a 5
+    400594: mantle right a 6
+    400596: mantle right a 7
+    400598: mantle right a 7_end
+    400600: mantle right b 1
+    400602: mantle right b 2
+    400604: mantle right b 3
+    400606: mantle right b 4
+    400608: mantle right b 5
+    400610: mantle right b 6
+    400612: mantle right b 7
+    400614: mantle right b 7_end
+    400616: mantle right c 1
+    400618: mantle right c 2
+    400620: mantle right c 3
+    400622: mantle right c 4
+    400624: mantle right c 5
+    400626: mantle right c 6
+    400628: mantle right c 7
+    400630: mantle right c 7_end
+    400632: mantle root
+    400634: metal skirt back left a 1
+    400636: metal skirt back left a 2
+    400638: metal skirt back left a 3
+    400640: metal skirt back left a 4
+    400642: metal skirt back left a 5
+    400644: metal skirt back left a 6
+    400646: metal skirt back left a 6_end
+    400648: metal skirt back left b 1
+    400650: metal skirt back left b 2
+    400652: metal skirt back left b 3
+    400654: metal skirt back left b 4
+    400656: metal skirt back left b 5
+    400658: metal skirt back left b 6
+    400660: metal skirt back left b 6_end
+    400662: metal skirt back middle 1
+    400664: metal skirt back middle 2
+    400666: metal skirt back middle 3
+    400668: metal skirt back middle 4
+    400670: metal skirt back middle 5
+    400672: metal skirt back middle 6
+    400674: metal skirt back middle 6_end
+    400676: metal skirt back right a 1
+    400678: metal skirt back right a 2
+    400680: metal skirt back right a 3
+    400682: metal skirt back right a 4
+    400684: metal skirt back right a 5
+    400686: metal skirt back right a 6
+    400688: metal skirt back right a 6_end
+    400690: metal skirt back right b 1
+    400692: metal skirt back right b 2
+    400694: metal skirt back right b 3
+    400696: metal skirt back right b 4
+    400698: metal skirt back right b 5
+    400700: metal skirt back right b 6
+    400702: metal skirt back right b 6_end
+    400704: metal skirt front left a 1
+    400706: metal skirt front left a 2
+    400708: metal skirt front left a 3
+    400710: metal skirt front left a 4
+    400712: metal skirt front left a 5
+    400714: metal skirt front left a 6
+    400716: metal skirt front left a 6_end
+    400718: metal skirt front left b 1
+    400720: metal skirt front left b 2
+    400722: metal skirt front left b 3
+    400724: metal skirt front left b 4
+    400726: metal skirt front left b 5
+    400728: metal skirt front left b 6
+    400730: metal skirt front left b 6_end
+    400732: metal skirt front middle 1
+    400734: metal skirt front middle 2
+    400736: metal skirt front middle 3
+    400738: metal skirt front middle 4
+    400740: metal skirt front middle 5
+    400742: metal skirt front middle 6
+    400744: metal skirt front middle 6_end
+    400746: metal skirt front right a 1
+    400748: metal skirt front right a 2
+    400750: metal skirt front right a 3
+    400752: metal skirt front right a 4
+    400754: metal skirt front right a 5
+    400756: metal skirt front right a 6
+    400758: metal skirt front right a 6_end
+    400760: metal skirt front right b 1
+    400762: metal skirt front right b 2
+    400764: metal skirt front right b 3
+    400766: metal skirt front right b 4
+    400768: metal skirt front right b 5
+    400770: metal skirt front right b 6
+    400772: metal skirt front right b 6_end
+    400774: metal skirt left 1
+    400776: metal skirt left 2
+    400778: metal skirt left 3
+    400780: metal skirt left 4
+    400782: metal skirt left 5
+    400784: metal skirt left 6
+    400786: metal skirt left 6_end
+    400788: metal skirt right 1
+    400790: metal skirt right 2
+    400792: metal skirt right 3
+    400794: metal skirt right 4
+    400796: metal skirt right 5
+    400798: metal skirt right 6
+    400800: metal skirt right 6_end
+    400802: pelvis 1
+    400804: pelvis 2
+    400806: pelvis 3
+    400808: pelvis 4
+    400810: pelvis 5
+    400812: pelvis 6
+    400814: root ground
+    400816: root hips
+    400818: skirt back left a 1
+    400820: skirt back left a 2
+    400822: skirt back left a 3
+    400824: skirt back left a 4
+    400826: skirt back left a 4_end
+    400828: skirt back left b 1
+    400830: skirt back left b 2
+    400832: skirt back left b 3
+    400834: skirt back left b 4
+    400836: skirt back left b 4_end
+    400838: skirt back middle 1
+    400840: skirt back middle 2
+    400842: skirt back middle 3
+    400844: skirt back middle 4
+    400846: skirt back middle 4_end
+    400848: skirt back right a 1
+    400850: skirt back right a 2
+    400852: skirt back right a 3
+    400854: skirt back right a 4
+    400856: skirt back right a 4_end
+    400858: skirt back right b 1
+    400860: skirt back right b 2
+    400862: skirt back right b 3
+    400864: skirt back right b 4
+    400866: skirt back right b 4_end
+    400868: skirt front left a 1
+    400870: skirt front left a 2
+    400872: skirt front left a 3
+    400874: skirt front left a 4
+    400876: skirt front left a 4_end
+    400878: skirt front left b 1
+    400880: skirt front left b 2
+    400882: skirt front left b 3
+    400884: skirt front left b 4
+    400886: skirt front left b 4_end
+    400888: skirt front middle 1
+    400890: skirt front middle 2
+    400892: skirt front middle 3
+    400894: skirt front middle 4
+    400896: skirt front middle 4_end
+    400898: skirt front right a 1
+    400900: skirt front right a 2
+    400902: skirt front right a 3
+    400904: skirt front right a 4
+    400906: skirt front right a 4_end
+    400908: skirt front right b 1
+    400910: skirt front right b 2
+    400912: skirt front right b 3
+    400914: skirt front right b 4
+    400916: skirt front right b 4_end
+    400918: skirt root
+    400920: spine lower
+    400922: spine middle
+    400924: spine upper
+    400926: unused metal skirt a base
+    400928: unused metal skirt b base
+    400930: unused metal skirt c base
+    400932: unused metal skirt d base
+    400934: unused metal skirt e base
+    400936: unused metal skirt f base
+    4300000: 28_ska6_0_0.5_25
+    4300002: 28_chain_0_0.5_25
+    4300004: 28_-undmons.undmons_0_0.5_25
+    4300006: 28_-leg.underparts3_0_0.5_25
+    4300008: 26_-blade.blade_0.5_0_0
+    4300010: 25_+skirt.skirt2_1_0_0
+    9500000: //RootNode
+    13700000: 25_+skirt.skirt2_1_0_0
+    13700002: 26_-blade.blade_0.5_0_0
+    13700004: 28_-leg.underparts3_0_0.5_25
+    13700006: 28_-undmons.undmons_0_0.5_25
+    13700008: 28_chain_0_0.5_25
+    13700010: 28_ska6_0_0.5_25
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: root hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pelvis 2
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: unused metal skirt a base
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pelvis 3
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metal skirt front middle 2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower mob base
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metal skirt front middle 4
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine middle
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine upper
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head neck lower
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head neck middle
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 2
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 2
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mantle root
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head cap 2
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doll root
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2a
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2b
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2c
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1a
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1b
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1c
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3a
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3b
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3c
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4a
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4b
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4c
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5a
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5b
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5c
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2a
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2b
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2c
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1a
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1b
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1c
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3a
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3b
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3c
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4a
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4b
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4c
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5a
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5b
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5c
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Beauvoir(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 25_+skirt.skirt2_1_0_0
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 26_-blade.blade_0.5_0_0
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 28_-leg.underparts3_0_0.5_25
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 28_-undmons.undmons_0_0.5_25
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 28_chain_0_0.5_25
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 28_ska6_0_0.5_25
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature
+      parentName: Beauvoir(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root ground
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: 0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root hips
+      parentName: root ground
+      position: {x: 1.6672615e-10, y: 0.000022988319, z: 0.035649482}
+      rotation: {x: -0.00000001813871, y: -0.6973323, z: 0.71674794, w: 0.0000000876866}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: hips 1
+      parentName: root hips
+      position: {x: 7.7033754e-11, y: -0.0007997005, z: 0.000021964588}
+      rotation: {x: 0.99990577, y: 0.00000002959595, z: 0.00000002620438, w: 0.013727905}
+      scale: {x: 1, y: 0.99999994, z: 0.99985194}
+    - name: hips 2
+      parentName: hips 1
+      position: {x: -2.373994e-18, y: 0.0020000027, z: 2.9832844e-12}
+      rotation: {x: 0.0000000027939682, y: 3.6420785e-13, z: 1.954001e-14, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: spine lower
+      parentName: hips 2
+      position: {x: -1.9533042e-21, y: 0.002399988, z: 2.3682445e-12}
+      rotation: {x: -1.3552585e-20, y: -5.470199e-17, z: 1.1095401e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine middle
+      parentName: spine lower
+      position: {x: -6.140352e-18, y: 0.0040000104, z: 2.3715487e-12}
+      rotation: {x: -1.3552527e-20, y: 3.9863106e-21, z: -1.110906e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine upper
+      parentName: spine middle
+      position: {x: 6.201538e-22, y: 0.0048, z: 2.3755143e-12}
+      rotation: {x: -0.021226088, y: -0.000000009415316, z: -0.000000009415385, w: 0.9997747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head neck lower
+      parentName: spine upper
+      position: {x: -1.179315e-10, y: 0.0063942256, z: 0.00027163225}
+      rotation: {x: -0.090231284, y: 0.000000008309518, z: 0.000000010405127, w: 0.99592084}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: head neck middle
+      parentName: head neck lower
+      position: {x: -1.6092135e-17, y: 0.0029460043, z: 8.9406965e-10}
+      rotation: {x: 0.082350634, y: -1.164289e-12, z: 9.4443455e-14, w: 0.9966034}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: head neck upper
+      parentName: head neck middle
+      position: {x: 1.23095195e-17, y: 0.002581444, z: 1.4901161e-10}
+      rotation: {x: 0.01643922, y: 0.3712229, z: 0.39350823, w: 0.8408773}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: head mask
+      parentName: head neck upper
+      position: {x: 0.00033051913, y: 0.001285289, z: 0.0010950834}
+      rotation: {x: 0.55685174, y: 0.26533663, z: 0.781974, w: 0.0896063}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: head mask_end
+      parentName: head mask
+      position: {x: -0, y: 0.0021273333, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head cap 1
+      parentName: head neck upper
+      position: {x: -0.00033051937, y: 0.0048725484, z: -0.0010950799}
+      rotation: {x: 0.41647682, y: 0.41646904, z: 0.8070544, w: -0.041997977}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: head cap 2
+      parentName: head cap 1
+      position: {x: 1.2558843e-12, y: 0.008, z: 0.0000000042073456}
+      rotation: {x: 0.000000014899793, y: 0.00001434982, z: -0.00000007451706, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head cap 2_end
+      parentName: head cap 2
+      position: {x: -0, y: 0.007999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doll root
+      parentName: head neck upper
+      position: {x: -0.00059453957, y: 0.00011953822, z: 0.00050874957}
+      rotation: {x: -0.08695912, y: -0.3369211, z: -0.42326882, w: 0.8365201}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: chain right 1
+      parentName: doll root
+      position: {x: 0.0179, y: 0.007131861, z: -0.0000012491552}
+      rotation: {x: 0.99360514, y: -0.0000040545133, z: -0.000034719007, w: -0.11291092}
+      scale: {x: 1, y: 1, z: 1.0000046}
+    - name: chain right 2
+      parentName: chain right 1
+      position: {x: 9.279494e-10, y: 0.0020999962, z: -1.2232455e-10}
+      rotation: {x: -0.000000006519371, y: -0.0000000053194875, z: -0.000000141561,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 3
+      parentName: chain right 2
+      position: {x: 3.4476794e-10, y: 0.0020999918, z: -8.559212e-11}
+      rotation: {x: -9.31436e-10, y: 7.634466e-13, z: 2.8398643e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 4
+      parentName: chain right 3
+      position: {x: 3.2935807e-10, y: 0.0031999978, z: -6.993508e-11}
+      rotation: {x: 0.0000027769777, y: 0.0016667458, z: -0.0016667291, w: 0.99999726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 5
+      parentName: chain right 4
+      position: {x: -4.3481121e-10, y: 0.0030000147, z: 1.0782969e-10}
+      rotation: {x: -0.0000027760211, y: -0.0016669848, z: 0.001666719, w: 0.99999726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 6
+      parentName: chain right 5
+      position: {x: 0.0000000012091982, y: 0.0015000022, z: 7.819279e-11}
+      rotation: {x: -9.314362e-10, y: 0.00000023915135, z: 0.000000014901158, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 7
+      parentName: chain right 6
+      position: {x: 9.402731e-10, y: 0.0040000067, z: -1.1400166e-10}
+      rotation: {x: -9.314362e-10, y: -3.4311016e-11, z: 3.9215807e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain right 7_end
+      parentName: chain right 7
+      position: {x: -0, y: 0.0040000104, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 1
+      parentName: doll root
+      position: {x: -0.0179, y: 0.0071318587, z: 0.0000012491552}
+      rotation: {x: 0.99360514, y: -0.0000040545133, z: -0.000034719007, w: -0.11291092}
+      scale: {x: 1, y: 1, z: 1.0000046}
+    - name: chain left 2
+      parentName: chain left 1
+      position: {x: 9.279494e-10, y: 0.0020999974, z: -6.495661e-11}
+      rotation: {x: -0.000000008382015, y: -0.000000005319487, z: -0.000000141561,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 3
+      parentName: chain left 2
+      position: {x: 3.4476794e-10, y: 0.0020999922, z: 8.590107e-11}
+      rotation: {x: -1.1368845e-13, y: 7.632172e-13, z: 2.1831837e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 4
+      parentName: chain left 3
+      position: {x: 3.2935807e-10, y: 0.0031999983, z: 9.182721e-11}
+      rotation: {x: 0.0000027790643, y: -0.0016667458, z: 0.0016667291, w: 0.99999726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 5
+      parentName: chain left 4
+      position: {x: -1.2398231e-10, y: 0.003000015, z: 9.8516466e-11}
+      rotation: {x: -0.0000027787896, y: 0.0016669848, z: -0.0016667336, w: 0.99999726}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: chain left 6
+      parentName: chain left 5
+      position: {x: -0.0000000010772542, y: 0.0015000021, z: 2.2570185e-11}
+      rotation: {x: 0.0000000018626449, y: -0.00000023903493, z: 0.000000014901156,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 7
+      parentName: chain left 6
+      position: {x: -9.605203e-10, y: 0.0040000123, z: -1.2436562e-10}
+      rotation: {x: -9.314362e-10, y: 3.42826e-11, z: -0.000000014901158, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain left 7_end
+      parentName: chain left 7
+      position: {x: -0, y: 0.0040000104, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle root
+      parentName: head neck upper
+      position: {x: -0.000496354, y: 0.00022850501, z: 0.00055593264}
+      rotation: {x: -0.07933491, y: -0.34076336, z: -0.4201824, w: 0.8372772}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right a 1
+      parentName: mantle root
+      position: {x: 0.02399992, y: 0.002287451, z: -0.0011542317}
+      rotation: {x: 0.94227964, y: -0.000011795737, z: -0.00003321392, w: -0.33482707}
+      scale: {x: 1, y: 0.9999999, z: 0.9999992}
+    - name: mantle right a 2
+      parentName: mantle right a 1
+      position: {x: 4.7581084e-10, y: 0.008095301, z: 0.0000000013448829}
+      rotation: {x: 0.024493618, y: -0.000000005257449, z: -0.000000029670762, w: 0.9997}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: mantle right a 3
+      parentName: mantle right a 2
+      position: {x: -6.319478e-10, y: 0.008199074, z: 0.0000000018714452}
+      rotation: {x: 0.019816386, y: 4.7169456e-11, z: -0.000000016578968, w: 0.99980366}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right a 4
+      parentName: mantle right a 3
+      position: {x: 6.424617e-10, y: 0.00898924, z: 5.494769e-10}
+      rotation: {x: 0.010714768, y: -0.00032175018, z: 0.0005838985, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right a 5
+      parentName: mantle right a 4
+      position: {x: -0.0000000015017576, y: 0.00851507, z: -0.0000000047963113}
+      rotation: {x: 0.0001269207, y: 0.00031543427, z: -0.00058734906, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: mantle right a 6
+      parentName: mantle right a 5
+      position: {x: -2.0583072e-11, y: 0.009236201, z: 8.862352e-10}
+      rotation: {x: 0.0029061409, y: -0.00000003328126, z: 0.000000016503545, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right a 7
+      parentName: mantle right a 6
+      position: {x: -1.0787214e-10, y: 0.009874144, z: 0.0000000016559264}
+      rotation: {x: 3.8857806e-16, y: 3.4942767e-12, z: -0.0000000042255004, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right a 7_end
+      parentName: mantle right a 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right b 1
+      parentName: mantle root
+      position: {x: 0.015999919, y: 0.0022874516, z: -0.0011536682}
+      rotation: {x: 0.94227964, y: -0.000011726407, z: -0.000033189313, w: -0.33482707}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: mantle right b 2
+      parentName: mantle right b 1
+      position: {x: 1.3368659e-10, y: 0.008095296, z: -4.9619175e-10}
+      rotation: {x: 0.024493473, y: -0.0000000032105234, z: 0.000000035053525, w: 0.9997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right b 3
+      parentName: mantle right b 2
+      position: {x: -0.0000000010346733, y: 0.008199068, z: 0.0000000028359375}
+      rotation: {x: 0.019816464, y: 7.05817e-11, z: 1.3995166e-12, w: 0.99980366}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: mantle right b 4
+      parentName: mantle right b 3
+      position: {x: -0.0000000010719081, y: 0.008989233, z: 0.0000000015572815}
+      rotation: {x: 0.010714746, y: -0.00032171205, z: 0.00058381236, w: 0.9999424}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: mantle right b 5
+      parentName: mantle right b 4
+      position: {x: -0.0000000017671845, y: 0.008515072, z: -0.0000000022852327}
+      rotation: {x: 0.00012703991, y: 0.00031539676, z: -0.0005872314, w: 0.9999998}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: mantle right b 6
+      parentName: mantle right b 5
+      position: {x: -0.0000000012016937, y: 0.009236204, z: -0.0000000033873782}
+      rotation: {x: 0.0029060366, y: -0.00000003321268, z: -0.000000024846022, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right b 7
+      parentName: mantle right b 6
+      position: {x: -8.2431145e-11, y: 0.009874138, z: 3.1046668e-10}
+      rotation: {x: 0.000000037252903, y: 3.463299e-12, z: -0.000000014487457, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: mantle right b 7_end
+      parentName: mantle right b 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right c 1
+      parentName: mantle root
+      position: {x: 0.007999918, y: 0.0022874526, z: -0.0011531045}
+      rotation: {x: 0.94227964, y: -0.000011761047, z: -0.0000332016, w: -0.33482707}
+      scale: {x: 1, y: 0.9999999, z: 0.9999992}
+    - name: mantle right c 2
+      parentName: mantle right c 1
+      position: {x: -2.9169328e-10, y: 0.008095301, z: -0.0000000017373645}
+      rotation: {x: 0.024493579, y: -0.000000004109508, z: -0.0000000023958695, w: 0.9997}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right c 3
+      parentName: mantle right c 2
+      position: {x: -9.777411e-10, y: 0.0081990715, z: -0.0000000015616344}
+      rotation: {x: 0.019816386, y: 9.608518e-11, z: 1.9024632e-12, w: 0.99980366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right c 4
+      parentName: mantle right c 3
+      position: {x: 1.6365222e-10, y: 0.008989235, z: -0.0000000022009716}
+      rotation: {x: 0.010714761, y: -0.00032169273, z: 0.00058379414, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right c 5
+      parentName: mantle right c 4
+      position: {x: -4.9825755e-10, y: 0.008515072, z: 0.0000000011274823}
+      rotation: {x: 0.00012706971, y: 0.00031537778, z: -0.0005872427, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: mantle right c 6
+      parentName: mantle right c 5
+      position: {x: 3.1661485e-10, y: 0.0092362035, z: 0.0000000030778764}
+      rotation: {x: 0.0029060438, y: -0.000000033247648, z: -0.000000002058474, w: 0.99999577}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle right c 7
+      parentName: mantle right c 6
+      position: {x: -2.3798164e-12, y: 0.00987414, z: -0.0000000010356601}
+      rotation: {x: -0.000000044703484, y: 3.482737e-12, z: 0.0000000040745958, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle right c 7_end
+      parentName: mantle right c 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle middle 1
+      parentName: mantle root
+      position: {x: -0.000000081217685, y: 0.0022874535, z: -0.0011525409}
+      rotation: {x: 0.94227964, y: -0.0000117610125, z: -0.000033201606, w: -0.33482707}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: mantle middle 2
+      parentName: mantle middle 1
+      position: {x: 2.6645352e-17, y: 0.008095298, z: -0.0000000011920929}
+      rotation: {x: 0.024493571, y: -0.0000000041682546, z: 1.05736954e-10, w: 0.9997}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: mantle middle 3
+      parentName: mantle middle 2
+      position: {x: -5.5220043e-17, y: 0.008199073, z: -5.960465e-10}
+      rotation: {x: 0.01981634, y: 4.715647e-13, z: -9.10188e-15, w: 0.99980366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle middle 4
+      parentName: mantle middle 3
+      position: {x: -4.487934e-18, y: 0.008989234, z: -3.9968027e-17}
+      rotation: {x: 0.010714776, y: -0.000321697, z: 0.000583781, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: mantle middle 5
+      parentName: mantle middle 4
+      position: {x: 5.8207657e-12, y: 0.008515073, z: -8.430032e-10}
+      rotation: {x: 0.00012698775, y: 0.00031538206, z: -0.0005872345, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: mantle middle 6
+      parentName: mantle middle 5
+      position: {x: -1.2420287e-13, y: 0.009236202, z: 0.0000000011927211}
+      rotation: {x: 0.0029060512, y: -0.000000033065206, z: 1.3800616e-10, w: 0.99999577}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle middle 7
+      parentName: mantle middle 6
+      position: {x: 1.2745603e-13, y: 0.00987414, z: 0.00000000119339}
+      rotation: {x: 0.000000037252903, y: 3.4418703e-12, z: -6.0423055e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle middle 7_end
+      parentName: mantle middle 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left c 1
+      parentName: mantle root
+      position: {x: -0.008000081, y: 0.0022874544, z: -0.0011519772}
+      rotation: {x: 0.94227964, y: -0.000011761047, z: -0.0000332016, w: -0.33482707}
+      scale: {x: 1, y: 0.9999999, z: 0.9999992}
+    - name: mantle left c 2
+      parentName: mantle left c 1
+      position: {x: 3.0435315e-10, y: 0.008095298, z: -5.0774815e-11}
+      rotation: {x: 0.024493579, y: -0.000000004358821, z: 0.000000007778634, w: 0.9997}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left c 3
+      parentName: mantle left c 2
+      position: {x: 0.0000000010986138, y: 0.00819907, z: 3.695419e-10}
+      rotation: {x: 0.019816417, y: -3.0713826e-10, z: -6.0879925e-12, w: 0.99980366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left c 4
+      parentName: mantle left c 3
+      position: {x: 6.6554073e-10, y: 0.0089892335, z: 0.0000000010088795}
+      rotation: {x: 0.010714873, y: 0.00032169232, z: -0.0005837799, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left c 5
+      parentName: mantle left c 4
+      position: {x: 7.310882e-10, y: 0.00851507, z: 0.0000000055751297}
+      rotation: {x: 0.00012697285, y: -0.00031537755, z: 0.0005872335, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: mantle left c 6
+      parentName: mantle left c 5
+      position: {x: -4.0458373e-11, y: 0.009236201, z: -0.0000000020144892}
+      rotation: {x: 0.0029060664, y: 0.000000033199132, z: -0.0000000020917335, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: mantle left c 7
+      parentName: mantle left c 6
+      position: {x: -6.342267e-11, y: 0.009874145, z: 0.0000000034208871}
+      rotation: {x: -0.000000067055225, y: -3.4770676e-12, z: -0.00000000415005, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left c 7_end
+      parentName: mantle left c 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left b 1
+      parentName: mantle root
+      position: {x: -0.01600008, y: 0.0022874554, z: -0.0011514138}
+      rotation: {x: 0.94227964, y: -0.000011726349, z: -0.000033189295, w: -0.33482707}
+      scale: {x: 1, y: 0.9999999, z: 0.9999992}
+    - name: mantle left b 2
+      parentName: mantle left b 1
+      position: {x: 1.3296986e-10, y: 0.008095301, z: -0.0000000015912992}
+      rotation: {x: 0.024493579, y: -0.000000003258239, z: 0.000000036915775, w: 0.9997}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left b 3
+      parentName: mantle left b 2
+      position: {x: -8.498073e-12, y: 0.008199078, z: 7.3910456e-10}
+      rotation: {x: 0.019816408, y: -3.4329432e-12, z: -6.884909e-14, w: 0.99980366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left b 4
+      parentName: mantle left b 3
+      position: {x: -6.510765e-12, y: 0.008989238, z: 8.256964e-10}
+      rotation: {x: 0.010714724, y: 0.000321712, z: -0.00058382476, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left b 5
+      parentName: mantle left b 4
+      position: {x: -0.0000000011292286, y: 0.008515074, z: 6.577466e-10}
+      rotation: {x: 0.00012708461, y: -0.00031539652, z: 0.0005873101, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: mantle left b 6
+      parentName: mantle left b 5
+      position: {x: 0.0000000016093371, y: 0.0092362, z: 7.402838e-10}
+      rotation: {x: 0.0029060142, y: 0.000000033038436, z: -0.000000014391509, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left b 7
+      parentName: mantle left b 6
+      position: {x: -0.0000000013759475, y: 0.009874143, z: 0.000000002075481}
+      rotation: {x: -0.000000044703484, y: -3.4583035e-12, z: -0.000000028974904,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left b 7_end
+      parentName: mantle left b 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left a 1
+      parentName: mantle root
+      position: {x: -0.024000082, y: 0.0022874563, z: -0.0011508501}
+      rotation: {x: 0.94227964, y: -0.000011795737, z: -0.00003321392, w: -0.33482707}
+      scale: {x: 1, y: 0.9999999, z: 0.9999992}
+    - name: mantle left a 2
+      parentName: mantle left a 1
+      position: {x: 4.7581084e-10, y: 0.008095298, z: -0.000000003133022}
+      rotation: {x: 0.024493579, y: -0.000000005348715, z: -0.000000025946171, w: 0.9997}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left a 3
+      parentName: mantle left a 2
+      position: {x: -9.628313e-10, y: 0.008199072, z: -8.330573e-11}
+      rotation: {x: 0.01981634, y: 3.069342e-10, z: -0.000000037132907, w: 0.99980366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left a 4
+      parentName: mantle left a 3
+      position: {x: -0.0000000029835072, y: 0.008989232, z: -5.4947974e-10}
+      rotation: {x: 0.010714821, y: 0.00032175065, z: -0.0005838653, w: 0.9999424}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle left a 5
+      parentName: mantle left a 4
+      position: {x: -7.473864e-10, y: 0.008515069, z: -0.000000004568137}
+      rotation: {x: 0.0001270101, y: -0.00031543424, z: 0.00058731594, w: 0.9999998}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: mantle left a 6
+      parentName: mantle left a 5
+      position: {x: -0.0000000012639101, y: 0.009236202, z: 0.000000008267876}
+      rotation: {x: 0.0029060887, y: 0.000000033417585, z: 0.000000008246347, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left a 7
+      parentName: mantle left a 6
+      position: {x: -0.000000002160084, y: 0.009874142, z: 7.294113e-10}
+      rotation: {x: -0.000000052154064, y: -3.5080441e-12, z: 0.000000012374699, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle left a 7_end
+      parentName: mantle left a 7
+      position: {x: -0, y: 0.009873703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front right 1
+      parentName: mantle root
+      position: {x: 0.0045002843, y: 0.0011923574, z: 0.0040335744}
+      rotation: {x: 0.99459237, y: -0.0000036115566, z: -0.000035033467, w: -0.103855595}
+      scale: {x: 1, y: 0.99999994, z: 0.99999684}
+    - name: mantle front right 2
+      parentName: mantle front right 1
+      position: {x: 1.1950488e-10, y: 0.0034000059, z: -1.5239632e-10}
+      rotation: {x: 0.000000022351738, y: -0.000000005144879, z: 0.000000011175871,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle front right 3
+      parentName: mantle front right 2
+      position: {x: -2.2571374e-10, y: 0.0033999963, z: 1.414848e-10}
+      rotation: {x: -5.6843395e-14, y: 7.776593e-13, z: -0.0000000037252956, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front right 4
+      parentName: mantle front right 3
+      position: {x: -3.5673828e-10, y: 0.0033999917, z: 1.415148e-10}
+      rotation: {x: 0.0000021626224, y: -0.0014705675, z: 0.001470566, w: 0.99999785}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: mantle front right 5
+      parentName: mantle front right 4
+      position: {x: 3.8417054e-11, y: 0.0034000133, z: 1.4406395e-11}
+      rotation: {x: -0.000002162174, y: 0.00147079, z: -0.0014705645, w: 0.99999785}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: mantle front right 6
+      parentName: mantle front right 5
+      position: {x: -3.7338563e-10, y: 0.0034000108, z: 6.563364e-11}
+      rotation: {x: -0.0000000037254035, y: -0.00000022250333, z: -2.4136532e-15,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front right 6_end
+      parentName: mantle front right 6
+      position: {x: -0, y: 0.003400011, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front left 1
+      parentName: mantle root
+      position: {x: -0.0044997153, y: 0.0011923584, z: 0.004034209}
+      rotation: {x: 0.9945924, y: -0.000003611628, z: -0.000035033492, w: -0.103855476}
+      scale: {x: 1, y: 0.99999994, z: 0.99999726}
+    - name: mantle front left 2
+      parentName: mantle front left 1
+      position: {x: 1.195664e-10, y: 0.0033999996, z: 1.8090755e-10}
+      rotation: {x: 0.000000014901159, y: -0.0000000051448774, z: 0.000000011175871,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mantle front left 3
+      parentName: mantle front left 2
+      position: {x: 3.703911e-10, y: 0.003399995, z: -1.4204482e-10}
+      rotation: {x: -5.6843375e-14, y: 7.7610455e-13, z: 7.250365e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front left 4
+      parentName: mantle front left 3
+      position: {x: 3.8234538e-10, y: 0.00339999, z: -1.420365e-10}
+      rotation: {x: 0.0000021625146, y: 0.0014705675, z: -0.0014705621, w: 0.99999785}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: mantle front left 5
+      parentName: mantle front left 4
+      position: {x: -1.7345883e-10, y: 0.0034000166, z: -2.802335e-10}
+      rotation: {x: -0.0000021640371, y: -0.0014707894, z: 0.0014705644, w: 0.99999785}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: mantle front left 6
+      parentName: mantle front left 5
+      position: {x: 2.8443825e-10, y: 0.0034000091, z: -1.3613456e-10}
+      rotation: {x: -5.6837053e-14, y: 0.0000002220375, z: -0.000000003725293, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mantle front left 6_end
+      parentName: mantle front left 6
+      position: {x: -0, y: 0.003400011, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right shoulder 1
+      parentName: spine upper
+      position: {x: 0.0052799997, y: 0.006138104, z: -0.00010763453}
+      rotation: {x: -0.17730504, y: -0.26084965, z: -0.564606, w: 0.76271915}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right shoulder 2
+      parentName: arm right shoulder 1
+      position: {x: 0.0000000025704503, y: 0.0024901712, z: -6.3329936e-10}
+      rotation: {x: -0.16038214, y: -0.43613258, z: -0.08132316, w: 0.8817327}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: arm right elbow
+      parentName: arm right shoulder 2
+      position: {x: 5.5879353e-11, y: 0.011489397, z: 0.0000000013277894}
+      rotation: {x: 0.01724553, y: 0.0022847054, z: 0.040917624, w: 0.99901116}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: arm right wrist
+      parentName: arm right elbow
+      position: {x: 3.1072886e-10, y: 0.011930118, z: 0.0000000034218977}
+      rotation: {x: -0.026932621, y: -0.024396146, z: -0.048027307, w: 0.9981848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 1a
+      parentName: arm right wrist
+      position: {x: 0.0008007371, y: 0.0009116454, z: -0.00018668502}
+      rotation: {x: 0.0030178172, y: 0.04821913, z: -0.08445535, w: 0.9952553}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: arm right finger 1b
+      parentName: arm right finger 1a
+      position: {x: 8.1590035e-10, y: 0.0014882205, z: 4.493054e-10}
+      rotation: {x: -0.000000031361623, y: 0.9999838, z: -0.0056999982, w: -0.00000007532037}
+      scale: {x: 1, y: 0.99999964, z: 0.99999994}
+    - name: arm right finger 1c
+      parentName: arm right finger 1b
+      position: {x: -0.0000000023778055, y: 0.0010176891, z: 0.0000000023729168}
+      rotation: {x: -0.0000000013969838, y: -0.00000005501554, z: 4.404857e-11, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: arm right finger 1c_end
+      parentName: arm right finger 1c
+      position: {x: -0, y: 0.0010175382, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 2a
+      parentName: arm right wrist
+      position: {x: 0.0009953398, y: 0.0029378438, z: -0.00003607513}
+      rotation: {x: -0.00020669766, y: 0.0332132, z: -0.35372227, w: 0.9347606}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: arm right finger 2b
+      parentName: arm right finger 2a
+      position: {x: -1.0913936e-11, y: 0.0014320879, z: 0.0000000016683628}
+      rotation: {x: 0.00000007565555, y: 0.000003807729, z: 0.005587148, w: 0.9999844}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: arm right finger 2c
+      parentName: arm right finger 2b
+      position: {x: 6.8204106e-12, y: 0.0011520016, z: -9.41157e-10}
+      rotation: {x: 1.6233783e-15, y: 5.6297733e-10, z: -5.8378146e-17, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: arm right finger 2c_end
+      parentName: arm right finger 2c
+      position: {x: -0, y: 0.0011520004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 3a
+      parentName: arm right wrist
+      position: {x: 0.00021263781, y: 0.0030347123, z: 0.000009174488}
+      rotation: {x: 0.02576274, y: 0.02562459, z: 0.0013202262, w: 0.9993388}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: arm right finger 3b
+      parentName: arm right finger 3a
+      position: {x: 8.039933e-12, y: 0.0015280242, z: -2.838493e-10}
+      rotation: {x: -0.00000008702872, y: 0.0000037814111, z: -0.0026181545, w: 0.9999966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 3c
+      parentName: arm right finger 3b
+      position: {x: 1.8587486e-12, y: 0.0012640001, z: -1.3869865e-10}
+      rotation: {x: 0.00000009692872, y: 5.5865707e-10, z: 6.1586924e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 3c_end
+      parentName: arm right finger 3c
+      position: {x: -0, y: 0.001264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 4a
+      parentName: arm right wrist
+      position: {x: -0.0006414053, y: 0.0029626607, z: 0.000073443036}
+      rotation: {x: 0.025695542, y: 0.025691954, z: -0.0012961993, w: 0.9993388}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: arm right finger 4b
+      parentName: arm right finger 4a
+      position: {x: -3.2528077e-11, y: 0.0014000009, z: 0.0000000021335305}
+      rotation: {x: 7.9274855e-15, y: 0.0000037848959, z: -0.000000001862645, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 4c
+      parentName: arm right finger 4b
+      position: {x: -1.0945836e-10, y: 0.0011600016, z: 0.0000000032610938}
+      rotation: {x: 8.0967726e-16, y: 5.591119e-10, z: 8.4268906e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 4c_end
+      parentName: arm right finger 4c
+      position: {x: -0, y: 0.0011599993, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 5a
+      parentName: arm right wrist
+      position: {x: -0.0013673106, y: 0.0027538033, z: 0.00014011694}
+      rotation: {x: 0.025695529, y: 0.02569195, z: -0.0012961904, w: 0.9993388}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: arm right finger 5b
+      parentName: arm right finger 5a
+      position: {x: 4.633442e-11, y: 0.001080001, z: -0.0000000028491691}
+      rotation: {x: 3.5833068e-14, y: 0.000003786758, z: -0.000000009313226, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 5c
+      parentName: arm right finger 5b
+      position: {x: 1.1360436e-10, y: 0.000920003, z: -0.000000002442182}
+      rotation: {x: 3.2374724e-16, y: 5.593393e-10, z: 2.4919031e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 5c_end
+      parentName: arm right finger 5c
+      position: {x: -0, y: 0.0009200001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right shoulder pad
+      parentName: spine upper
+      position: {x: 0.0072000003, y: 0.008008417, z: -0.000028181834}
+      rotation: {x: -0.41715965, y: -0.4815145, z: -0.5024097, w: 0.58455634}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: arm right shoulder pad_end
+      parentName: arm right shoulder pad
+      position: {x: -0, y: 0.007279269, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder 1
+      parentName: spine upper
+      position: {x: -0.0052799997, y: 0.0061381035, z: -0.00010763435}
+      rotation: {x: -0.18786222, y: 0.25712302, z: 0.56098145, w: 0.7641305}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: arm left shoulder 2
+      parentName: arm left shoulder 1
+      position: {x: 0.000000002235174, y: 0.0024901717, z: -0.000000003390014}
+      rotation: {x: -0.16245204, y: 0.43389887, z: 0.076412946, w: 0.8828942}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: arm left elbow
+      parentName: arm left shoulder 2
+      position: {x: -1.3038516e-10, y: 0.011489398, z: 0.0000000079772144}
+      rotation: {x: 0.017077656, y: -0.002267927, z: -0.041560862, w: 0.99898744}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: arm left wrist
+      parentName: arm left elbow
+      position: {x: -5.843844e-11, y: 0.011930121, z: 0.0000000036014103}
+      rotation: {x: -0.026933013, y: 0.024396127, z: 0.048027307, w: 0.9981848}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: arm left finger 1a
+      parentName: arm left wrist
+      position: {x: -0.00080073747, y: 0.0009116496, z: -0.00018668442}
+      rotation: {x: 0.003017353, y: -0.04821962, z: 0.08446632, w: 0.99525434}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: arm left finger 1b
+      parentName: arm left finger 1a
+      position: {x: 0.0000000024492681, y: 0.0014882205, z: 0.0000000019746398}
+      rotation: {x: 0.00000001762556, y: 0.99998367, z: -0.0057140253, w: 0.00000007539842}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: arm left finger 1c
+      parentName: arm left finger 1b
+      position: {x: -0.000000003312187, y: 0.0010176933, z: 0.0000000017083965}
+      rotation: {x: -0.0000000016298144, y: 0.000000043802856, z: -4.5303587e-11,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: arm left finger 1c_end
+      parentName: arm left finger 1c
+      position: {x: -0, y: 0.0010175424, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 2a
+      parentName: arm left wrist
+      position: {x: -0.0009953406, y: 0.0029378475, z: -0.000036072874}
+      rotation: {x: -0.0033762264, y: -0.03323506, z: 0.353686, w: 0.9347675}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: arm left finger 2b
+      parentName: arm left finger 2a
+      position: {x: -5.3478288e-11, y: 0.0014320873, z: 0.0000000034940222}
+      rotation: {x: -0.00000002132361, y: -0.0000038165003, z: -0.0055871294, w: 0.9999844}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: arm left finger 2c
+      parentName: arm left finger 2b
+      position: {x: -2.9342616e-12, y: 0.0011520025, z: 0.0000000027865832}
+      rotation: {x: -0.00000009692867, y: -5.642262e-10, z: -0.0000000017524747, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 2c_end
+      parentName: arm left finger 2c
+      position: {x: -0, y: 0.0011520004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 3a
+      parentName: arm left wrist
+      position: {x: -0.00021263857, y: 0.0030347162, z: 0.000009176683}
+      rotation: {x: 0.025763242, y: -0.025624586, z: -0.0013202208, w: 0.99933875}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: arm left finger 3b
+      parentName: arm left finger 3a
+      position: {x: -3.037712e-11, y: 0.0015280218, z: 0.0000000013556851}
+      rotation: {x: -0.00000008702869, y: -0.0000037814104, z: 0.0026181503, w: 0.9999966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 3c
+      parentName: arm left finger 3b
+      position: {x: 1.7802981e-12, y: 0.0012640001, z: 0.0000000012140754}
+      rotation: {x: -0.00000009692869, y: -5.593377e-10, z: 1.5020768e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 3c_end
+      parentName: arm left finger 3c
+      position: {x: -0, y: 0.001264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 4a
+      parentName: arm left wrist
+      position: {x: 0.0006414049, y: 0.0029626642, z: 0.00007344994}
+      rotation: {x: 0.025696035, y: -0.025691943, z: 0.0012962122, w: 0.9993388}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: arm left finger 4b
+      parentName: arm left finger 4a
+      position: {x: 6.457e-11, y: 0.001400003, z: -7.611862e-10}
+      rotation: {x: -0.0000000969645, y: -0.000003786758, z: -0.000000009529391, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 4c
+      parentName: arm left finger 4b
+      position: {x: -2.999536e-11, y: 0.0011600006, z: -0.0000000025085016}
+      rotation: {x: -0.00000009696445, y: -5.597932e-10, z: -2.1580192e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 4c_end
+      parentName: arm left finger 4c
+      position: {x: -0, y: 0.0011599993, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 5a
+      parentName: arm left wrist
+      position: {x: 0.0013673104, y: 0.0027538072, z: 0.00014011888}
+      rotation: {x: 0.025696037, y: -0.02569194, z: 0.0012962451, w: 0.9993388}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999998}
+    - name: arm left finger 5b
+      parentName: arm left finger 5a
+      position: {x: -7.41565e-11, y: 0.0010800026, z: 0.0000000026003464}
+      rotation: {x: -0.000000097024255, y: -0.0000037904833, z: -0.000000043834675,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 5c
+      parentName: arm left finger 5b
+      position: {x: -2.9092107e-10, y: 0.0009199994, z: -3.3821834e-12}
+      rotation: {x: -3.3138851e-15, y: -5.6036153e-10, z: 9.826847e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 5c_end
+      parentName: arm left finger 5c
+      position: {x: -0, y: 0.0009200001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder pad
+      parentName: spine upper
+      position: {x: -0.0072000003, y: 0.008008416, z: -0.000028181621}
+      rotation: {x: -0.4171596, y: 0.48151454, z: 0.50240964, w: 0.5845564}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: arm left shoulder pad_end
+      parentName: arm left shoulder pad
+      position: {x: -0, y: 0.007279269, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis 1
+      parentName: root hips
+      position: {x: -7.703265e-11, y: 0.0025059192, z: -0.000021964535}
+      rotation: {x: -0.2255222, y: -0.000000986614, z: 0.0000010193462, w: 0.97423804}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: skirt root
+      parentName: pelvis 1
+      position: {x: 0.00000009318115, y: 0.036990844, z: 0.01682672}
+      rotation: {x: 0.9768549, y: -0.0000009660417, z: -0.0000009625398, w: -0.21390304}
+      scale: {x: 1, y: 1, z: 0.99999917}
+    - name: skirt front middle 1
+      parentName: skirt root
+      position: {x: 3.7186715e-14, y: 0.04406159, z: 0.023339862}
+      rotation: {x: 0.99999833, y: 2.2302657e-13, z: -7.9735394e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt front middle 2
+      parentName: skirt front middle 1
+      position: {x: 2.3753733e-22, y: 0.009399996, z: 0.0000000016367693}
+      rotation: {x: 0.000000059604645, y: -9.188104e-17, z: -6.174412e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front middle 3
+      parentName: skirt front middle 2
+      position: {x: 3.5247943e-23, y: 0.012, z: 6.465582e-10}
+      rotation: {x: -7.1054274e-15, y: 6.7751294e-21, z: 3.3122276e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front middle 4
+      parentName: skirt front middle 3
+      position: {x: 1.5567564e-21, y: 0.011199999, z: 3.258047e-10}
+      rotation: {x: -0.0000000143193635, y: 7.0431335e-21, z: -2.0976483e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front middle 4_end
+      parentName: skirt front middle 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left a 1
+      parentName: skirt root
+      position: {x: -0.0128999995, y: 0.04404049, z: 0.017539896}
+      rotation: {x: 0.99999833, y: -1.4492265e-15, z: -7.966291e-13, w: 0.001819089}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt front left a 2
+      parentName: skirt front left a 1
+      position: {x: 1.5523137e-14, y: 0.009400001, z: 0.0000000012559874}
+      rotation: {x: -0.000000014901161, y: -2.2148249e-16, z: -0.000000014901163,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left a 3
+      parentName: skirt front left a 2
+      position: {x: -5.1925403e-10, y: 0.012, z: 0.0000000013393954}
+      rotation: {x: -1.110223e-16, y: 3.3747747e-21, z: 0.000000014901163, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left a 4
+      parentName: skirt front left a 3
+      position: {x: 5.091483e-15, y: 0.011199999, z: 0.0000000012663821}
+      rotation: {x: -1.110223e-16, y: 3.798281e-21, z: 1.9872497e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left a 4_end
+      parentName: skirt front left a 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left b 1
+      parentName: skirt root
+      position: {x: -0.020799998, y: 0.044000458, z: 0.0065399623}
+      rotation: {x: 0.99999833, y: -1.4491518e-15, z: -7.966291e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt front left b 2
+      parentName: skirt front left b 1
+      position: {x: 1.5525358e-14, y: 0.009399995, z: 2.504004e-10}
+      rotation: {x: 0.000000014901161, y: 7.4641273e-19, z: -8.4503745e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left b 3
+      parentName: skirt front left b 2
+      position: {x: 1.0134116e-14, y: 0.012, z: 5.8028252e-11}
+      rotation: {x: 5.551115e-17, y: 1.4942442e-21, z: 1.01961384e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left b 4
+      parentName: skirt front left b 3
+      position: {x: 5.107026e-15, y: 0.011199999, z: 2.9341696e-11}
+      rotation: {x: -0.000000014901156, y: -1.8526123e-21, z: 1.0196138e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front left b 4_end
+      parentName: skirt front left b 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left b 1
+      parentName: skirt root
+      position: {x: -0.020799998, y: 0.0439517, z: -0.006859959}
+      rotation: {x: 0.99999833, y: -1.4491518e-15, z: -7.966291e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt back left b 2
+      parentName: skirt back left b 1
+      position: {x: 1.5525358e-14, y: 0.009400001, z: 2.5040026e-10}
+      rotation: {x: 0.000000022351744, y: 7.480852e-19, z: -8.4503786e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left b 3
+      parentName: skirt back left b 2
+      position: {x: 1.0134116e-14, y: 0.012, z: -2.0160391e-10}
+      rotation: {x: -0.000000014901161, y: 6.831412e-21, z: -7.585661e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left b 4
+      parentName: skirt back left b 3
+      position: {x: 5.107026e-15, y: 0.011199999, z: -1.4017955e-10}
+      rotation: {x: -1.2407709e-24, y: -7.189774e-21, z: -2.6232172e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left b 4_end
+      parentName: skirt back left b 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left a 1
+      parentName: skirt root
+      position: {x: -0.0128999995, y: 0.043911677, z: -0.017859895}
+      rotation: {x: 0.99999833, y: -1.4492265e-15, z: -7.966291e-13, w: 0.001819089}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt back left a 2
+      parentName: skirt back left a 1
+      position: {x: 1.5523137e-14, y: 0.009399995, z: -0.0000000011281984}
+      rotation: {x: 7.285476e-20, y: 5.617398e-19, z: 0.000000014901165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left a 3
+      parentName: skirt back left a 2
+      position: {x: -6.7281825e-10, y: 0.012, z: -0.0000000015640548}
+      rotation: {x: -0.000000029802317, y: 1.5987747e-20, z: -0.000000029802326, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left a 4
+      parentName: skirt back left a 3
+      position: {x: -8.5304547e-10, y: 0.011199998, z: -0.0000000014568462}
+      rotation: {x: 7.549444e-15, y: -1.1924636e-20, z: 8.685884e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back left a 4_end
+      parentName: skirt back left a 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back middle 1
+      parentName: skirt root
+      position: {x: -3.5147344e-14, y: 0.043896392, z: -0.02205987}
+      rotation: {x: 0.99999833, y: 2.2302657e-13, z: -7.9735394e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt back middle 2
+      parentName: skirt back middle 1
+      position: {x: 4.7219087e-23, y: 0.0094, z: 0.0000000016367687}
+      rotation: {x: 0.000000044703487, y: -9.188104e-17, z: -6.174412e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back middle 3
+      parentName: skirt back middle 2
+      position: {x: -1.3545269e-23, y: 0.012000001, z: -2.6270177e-11}
+      rotation: {x: -7.1054274e-15, y: -5.5417304e-22, z: 9.353345e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back middle 4
+      parentName: skirt back middle 3
+      position: {x: 5.0046405e-24, y: 0.0112, z: -1.3237709e-11}
+      rotation: {x: -0.00000002980233, y: -2.8616968e-22, z: 4.1592916e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back middle 4_end
+      parentName: skirt back middle 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right a 1
+      parentName: skirt root
+      position: {x: 0.0128999995, y: 0.043911677, z: -0.017859895}
+      rotation: {x: 0.99999833, y: -1.4492265e-15, z: -7.966291e-13, w: 0.001819089}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt back right a 2
+      parentName: skirt back right a 1
+      position: {x: 1.5523137e-14, y: 0.009399995, z: -0.0000000011284507}
+      rotation: {x: -7.285807e-20, y: 5.6478383e-19, z: -0.000000014901165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right a 3
+      parentName: skirt back right a 2
+      position: {x: 6.728385e-10, y: 0.012, z: -0.000000001564307}
+      rotation: {x: -0.000000029802317, y: 1.2758434e-20, z: 0.000000029802326, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right a 4
+      parentName: skirt back right a 3
+      position: {x: 8.530556e-10, y: 0.011199998, z: -0.0000000014570984}
+      rotation: {x: 7.549589e-15, y: -1.5418647e-20, z: 8.685884e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right a 4_end
+      parentName: skirt back right a 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right b 1
+      parentName: skirt root
+      position: {x: 0.020799998, y: 0.0439517, z: -0.006859959}
+      rotation: {x: 0.99999833, y: -1.4491518e-15, z: -7.966291e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt back right b 2
+      parentName: skirt back right b 1
+      position: {x: 1.5525358e-14, y: 0.009400001, z: 2.4999347e-10}
+      rotation: {x: 0.000000022351744, y: 7.480852e-19, z: -8.4503786e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right b 3
+      parentName: skirt back right b 2
+      position: {x: 1.0134116e-14, y: 0.012, z: -2.020107e-10}
+      rotation: {x: -0.000000014901161, y: 6.831412e-21, z: -7.585661e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right b 4
+      parentName: skirt back right b 3
+      position: {x: 5.107026e-15, y: 0.011199999, z: -1.4058633e-10}
+      rotation: {x: -1.2407709e-24, y: -7.189774e-21, z: -2.6232172e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt back right b 4_end
+      parentName: skirt back right b 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right b 1
+      parentName: skirt root
+      position: {x: 0.020799998, y: 0.044000458, z: 0.0065399623}
+      rotation: {x: 0.99999833, y: -1.4491518e-15, z: -7.966291e-13, w: 0.0018192083}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt front right b 2
+      parentName: skirt front right b 1
+      position: {x: 1.5525358e-14, y: 0.009399995, z: 2.499936e-10}
+      rotation: {x: 0.000000014901161, y: 7.4641273e-19, z: -8.4503745e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right b 3
+      parentName: skirt front right b 2
+      position: {x: 1.0134116e-14, y: 0.012, z: 5.7621456e-11}
+      rotation: {x: 5.551115e-17, y: 1.4942442e-21, z: 1.01961384e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right b 4
+      parentName: skirt front right b 3
+      position: {x: 5.107026e-15, y: 0.011199999, z: 2.8934907e-11}
+      rotation: {x: -0.000000014901156, y: -1.8526123e-21, z: 1.0196138e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right b 4_end
+      parentName: skirt front right b 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right a 1
+      parentName: skirt root
+      position: {x: 0.0128999995, y: 0.04404049, z: 0.017539896}
+      rotation: {x: 0.99999833, y: -1.4492265e-15, z: -7.966291e-13, w: 0.001819089}
+      scale: {x: 1, y: 1, z: 1.0000066}
+    - name: skirt front right a 2
+      parentName: skirt front right a 1
+      position: {x: 1.5523137e-14, y: 0.009400001, z: 0.0000000012557351}
+      rotation: {x: -0.000000014901161, y: 2.2260235e-16, z: 0.000000014901163, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right a 3
+      parentName: skirt front right a 2
+      position: {x: 5.192743e-10, y: 0.012, z: 0.0000000013391431}
+      rotation: {x: -1.110223e-16, y: 4.2218e-21, z: -0.000000014901163, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right a 4
+      parentName: skirt front right a 3
+      position: {x: 5.113687e-15, y: 0.011199999, z: 0.0000000012661299}
+      rotation: {x: -1.110223e-16, y: 3.7982906e-21, z: 1.9872497e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt front right a 4_end
+      parentName: skirt front right a 4
+      position: {x: -0, y: 0.0112, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis 2
+      parentName: pelvis 1
+      position: {x: -1.6808776e-15, y: 0.00011298952, z: -2.7706806e-10}
+      rotation: {x: 0.21212561, y: 0.000000964297, z: -0.0000009642996, w: 0.9772424}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: pelvis 3
+      parentName: pelvis 2
+      position: {x: -1.5900661e-18, y: 0.009974318, z: 4.2192026e-13}
+      rotation: {x: -0.000000014901161, y: 1.1368684e-13, z: -2.842171e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis 4
+      parentName: pelvis 3
+      position: {x: 1.3757667e-22, y: 0.0102583505, z: 0}
+      rotation: {x: 0.1682948, y: 3.5252046e-17, z: -2.0647975e-16, w: 0.9857367}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis 5
+      parentName: pelvis 4
+      position: {x: 3.945032e-18, y: 0.009743531, z: -0.003426915}
+      rotation: {x: -0.1682948, y: -1.4324472e-16, z: -4.2606668e-16, w: 0.9857367}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: pelvis 6
+      parentName: pelvis 5
+      position: {x: -1.2402162e-17, y: 0.0057965294, z: -9.778887e-11}
+      rotation: {x: 0.000000014801127, y: 3.8658768e-24, z: 6.416859e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: blade
+      parentName: pelvis 6
+      position: {x: 9.926167e-26, y: 0.005033792, z: 2.6451508e-13}
+      rotation: {x: -0, y: -2.2745245e-23, z: -1.731908e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: blade_end
+      parentName: blade
+      position: {x: -0, y: 0.005033792, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg a base
+      parentName: pelvis 5
+      position: {x: -5.51524e-18, y: 0.0004303211, z: 5.122274e-11}
+      rotation: {x: 1.6964211e-12, y: 0.0000013025393, z: -0.0000013025392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right thigh 1
+      parentName: leg a base
+      position: {x: 0.013056, y: 0.000064034495, z: 0.00000003401197}
+      rotation: {x: 0.4914172, y: 0.5084379, z: -0.4914159, w: 0.5084393}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: leg right thigh 2
+      parentName: leg right thigh 1
+      position: {x: 3.2326824e-12, y: 0.009432, z: 5.9528177e-10}
+      rotation: {x: -0.036738772, y: -0.03673879, z: 0.001351564, w: 0.99864846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right knee 1
+      parentName: leg right thigh 2
+      position: {x: 0.00001710803, y: 0.01796746, z: 0.0002322068}
+      rotation: {x: 0.21127921, y: 0.20849624, z: 0.030102123, w: 0.95445496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right knee 2
+      parentName: leg right knee 1
+      position: {x: -0.00026419768, y: 0.008716539, z: 0.0007092238}
+      rotation: {x: -0.17782116, y: -0.17761105, z: -0.03144292, w: 0.967391}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: leg right ankle
+      parentName: leg right knee 2
+      position: {x: 0.0000013452617, y: 0.022711158, z: 0.00020502106}
+      rotation: {x: 0.35082394, y: 0.3498944, z: 0.14052612, w: 0.85717493}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: leg right toes 1
+      parentName: leg right ankle
+      position: {x: -0.0006383759, y: 0.0021744377, z: -0.00030652113}
+      rotation: {x: -0.2237453, y: 0.09263104, z: 0.36468485, w: 0.8990899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes 1_end
+      parentName: leg right toes 1
+      position: {x: -0, y: 0.0009155995, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes 2
+      parentName: leg right ankle
+      position: {x: 0.00032786067, y: 0.0021744375, z: 0.0006276752}
+      rotation: {x: 0.4178503, y: 0.23647732, z: -0.09196852, w: 0.8723654}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: leg right toes 2_end
+      parentName: leg right toes 2
+      position: {x: -0, y: 0.00091559935, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes 3
+      parentName: leg right ankle
+      position: {x: 0.00111602, y: 0.0004061377, z: -0.0011543015}
+      rotation: {x: 0.7991166, y: 0.17541641, z: -0.5741365, w: -0.031767372}
+      scale: {x: 0.9999988, y: 0.9999995, z: 0.9999987}
+    - name: leg right toes hydraulic cylinder 1
+      parentName: leg right toes 3
+      position: {x: -0.0000000074063427, y: 0.0016210263, z: 0.00000000215834}
+      rotation: {x: -0.000000009629794, y: 0.000000037252903, z: 0.00000006235089,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: leg right toes hydraulic cylinder 1_end
+      parentName: leg right toes hydraulic cylinder 1
+      position: {x: -0, y: 0.001621022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes hydraulic cylinder 2
+      parentName: leg right ankle
+      position: {x: -0.0008055121, y: 0.0016211862, z: 0.00083313434}
+      rotation: {x: 0.019956715, y: 0.49986285, z: 0.69849676, w: 0.51170415}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: leg right toes hydraulic cylinder 2_end
+      parentName: leg right toes hydraulic cylinder 2
+      position: {x: -0, y: 0.0011591831, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right ankle hydraulic cylinder 1
+      parentName: leg right knee 2
+      position: {x: 0.000008403373, y: 0.018392004, z: 0.0012806808}
+      rotation: {x: 0.28262156, y: 0.27661294, z: 0.91468066, w: 0.08348518}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: leg right ankle hydraulic cylinder 1_end
+      parentName: leg right ankle hydraulic cylinder 1
+      position: {x: -0, y: 0.0023149783, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right ankle hydraulic cylinder 2
+      parentName: leg right knee 2
+      position: {x: -0.000009748665, y: 0.019858185, z: -0.0014856986}
+      rotation: {x: -0.473159, y: -0.47742468, z: 0.65166384, w: 0.35145485}
+      scale: {x: 1, y: 0.9999998, z: 0.99999976}
+    - name: leg right ankle hydraulic cylinder 2_end
+      parentName: leg right ankle hydraulic cylinder 2
+      position: {x: -0, y: 0.0015559854, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right knee hydraulic cylinder
+      parentName: leg right knee 1
+      position: {x: 0.00026419724, y: 0.005881819, z: -0.0007092278}
+      rotation: {x: -0.54920465, y: -0.23551477, z: 0.7996456, w: 0.058941305}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: leg right knee hydraulic cylinder_end
+      parentName: leg right knee hydraulic cylinder
+      position: {x: -0, y: 0.0016067704, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right thigh hydraulic cylinder
+      parentName: leg right thigh 2
+      position: {x: -0.000017108214, y: 0.0044611637, z: -0.00023220353}
+      rotation: {x: 0.056272697, y: -0.017228482, z: 0.99826676, w: 0.00029699362}
+      scale: {x: 0.9999998, y: 1, z: 0.9999735}
+    - name: leg right thigh hydraulic cylinder_end
+      parentName: leg right thigh hydraulic cylinder
+      position: {x: -0, y: 0.0067571583, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left thigh 1
+      parentName: leg a base
+      position: {x: -0.013056, y: 0.00006396647, z: -0.00000003401184}
+      rotation: {x: 0.5059154, y: -0.4940138, z: 0.50591666, w: 0.49401248}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999994}
+    - name: leg left thigh 2
+      parentName: leg left thigh 1
+      position: {x: 7.69198e-13, y: 0.009432, z: 5.9607536e-10}
+      rotation: {x: -0.036738772, y: 0.036738813, z: -0.001351563, w: 0.99864846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left knee 1
+      parentName: leg left thigh 2
+      position: {x: -0.000017107974, y: 0.017967463, z: 0.00023220501}
+      rotation: {x: 0.21127918, y: -0.20849626, z: -0.030102126, w: 0.95445496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left knee 2
+      parentName: leg left knee 1
+      position: {x: 0.00026419802, y: 0.008716541, z: 0.0007092256}
+      rotation: {x: -0.17782113, y: 0.17761107, z: 0.031442925, w: 0.967391}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: leg left ankle
+      parentName: leg left knee 2
+      position: {x: -0.0000013452573, y: 0.022711154, z: 0.00020502036}
+      rotation: {x: 0.35082394, y: -0.3498944, z: -0.14052612, w: 0.85717493}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: leg left toes 1
+      parentName: leg left ankle
+      position: {x: 0.0006383722, y: 0.0021744387, z: -0.0003065193}
+      rotation: {x: -0.22374532, y: -0.092631035, z: -0.36468485, w: 0.8990899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left toes 1_end
+      parentName: leg left toes 1
+      position: {x: -0, y: 0.0009155995, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left toes 2
+      parentName: leg left ankle
+      position: {x: -0.00032786437, y: 0.0021744387, z: 0.0006276772}
+      rotation: {x: 0.4178503, y: -0.2364773, z: 0.091968544, w: 0.8723654}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: leg left toes 2_end
+      parentName: leg left toes 2
+      position: {x: -0, y: 0.00091559935, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left toes 3
+      parentName: leg left ankle
+      position: {x: -0.001116023, y: 0.0004061389, z: -0.0011543002}
+      rotation: {x: 0.79910684, y: -0.17542557, z: 0.5741461, w: -0.03178924}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000006}
+    - name: leg left toes hydraulic cylinder 1
+      parentName: leg left toes 3
+      position: {x: -0.0000000044936312, y: 0.0016210282, z: 0.0000000020838342}
+      rotation: {x: -0.000000038329688, y: -0.000000044703487, z: 0.0000000012591244,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: leg left toes hydraulic cylinder 1_end
+      parentName: leg left toes hydraulic cylinder 1
+      position: {x: -0, y: 0.001621022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left toes hydraulic cylinder 2
+      parentName: leg left ankle
+      position: {x: 0.000805509, y: 0.0016211879, z: 0.00083313626}
+      rotation: {x: 0.019956704, y: -0.49986294, z: -0.6984968, w: 0.5117041}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: leg left toes hydraulic cylinder 2_end
+      parentName: leg left toes hydraulic cylinder 2
+      position: {x: -0, y: 0.0011591831, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle hydraulic cylinder 1
+      parentName: leg left knee 2
+      position: {x: -0.0000084033745, y: 0.018391997, z: 0.0012806795}
+      rotation: {x: -0.28262103, y: 0.27661294, z: 0.91468084, w: -0.083484486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle hydraulic cylinder 1_end
+      parentName: leg left ankle hydraulic cylinder 1
+      position: {x: -0, y: 0.0023149783, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle hydraulic cylinder 2
+      parentName: leg left knee 2
+      position: {x: 0.000009748666, y: 0.019858185, z: -0.0014856996}
+      rotation: {x: 0.47315902, y: -0.47742477, z: 0.65166384, w: -0.3514548}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: leg left ankle hydraulic cylinder 2_end
+      parentName: leg left ankle hydraulic cylinder 2
+      position: {x: -0, y: 0.0015559854, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front ankle hydraulic cylinder
+      parentName: leg left knee 1
+      position: {x: -0.00026419712, y: 0.005881817, z: -0.00070922665}
+      rotation: {x: 0.54920286, y: -0.23551421, z: 0.7996468, w: -0.058942858}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000008}
+    - name: leg front ankle hydraulic cylinder_end
+      parentName: leg front ankle hydraulic cylinder
+      position: {x: -0, y: 0.0016067704, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left thigh hydraulic cylinder
+      parentName: leg left thigh 2
+      position: {x: 0.00001710815, y: 0.004461166, z: -0.00023220382}
+      rotation: {x: -0.056272358, y: -0.01722839, z: 0.9982668, w: -0.00029698238}
+      scale: {x: 0.9999998, y: 1, z: 0.9999666}
+    - name: leg left thigh hydraulic cylinder_end
+      parentName: leg left thigh hydraulic cylinder
+      position: {x: -0, y: 0.0067571583, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg b base
+      parentName: pelvis 5
+      position: {x: -5.51524e-18, y: 0.0004303211, z: 5.122274e-11}
+      rotation: {x: -0.000026466092, y: -1.6988749e-20, z: 6.416856e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front thigh 1
+      parentName: leg b base
+      position: {x: 1.1051133e-23, y: 0.00006469237, z: -0.013055998}
+      rotation: {x: 0.00000006181724, y: 0.7071255, z: -0.7070881, w: 1.6357784e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: leg front thigh 2
+      parentName: leg front thigh 1
+      position: {x: 1.7777886e-17, y: 0.009432, z: 5.958827e-10}
+      rotation: {x: 4.4156087e-10, y: 0.999324, z: -0.036763623, w: 0.00000007553273}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: leg front knee 1
+      parentName: leg front thigh 2
+      position: {x: -1.4801937e-11, y: 0.017967463, z: -0.00023283392}
+      rotation: {x: -0.21341287, y: 0.00000003105427, z: 0.000000006783638, w: 0.97696215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front knee 2
+      parentName: leg front knee 1
+      position: {x: 4.61389e-17, y: 0.00871653, z: -0.00075683533}
+      rotation: {x: 0.18057978, y: -4.3666287e-14, z: 9.8648456e-15, w: 0.9835604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front ankle
+      parentName: leg front knee 2
+      position: {x: -2.1124416e-17, y: 0.022711134, z: -0.00020502399}
+      rotation: {x: -0.37792212, y: -0.0000000074109634, z: 2.4312686e-11, w: 0.9258374}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: leg front toes 1
+      parentName: leg front ankle
+      position: {x: 0.00067199994, y: 0.0021744317, z: -0.00022336065}
+      rotation: {x: -0.3605995, y: -0.56945395, z: -0.23027164, w: 0.70190114}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999998}
+    - name: leg front toes 1_end
+      parentName: leg front toes 1
+      position: {x: -0, y: 0.00091559946, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front toes 2
+      parentName: leg front ankle
+      position: {x: -0.00067199994, y: 0.0021744317, z: -0.00022336065}
+      rotation: {x: -0.36059946, y: 0.56945395, z: 0.23027158, w: 0.70190114}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999998}
+    - name: leg front toes 2_end
+      parentName: leg front toes 2
+      position: {x: -0, y: 0.00091559946, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front toes 3
+      parentName: leg front ankle
+      position: {x: 1.9805787e-11, y: 0.00040613173, z: 0.0016055875}
+      rotation: {x: 0.9839801, y: 0.0000000039585926, z: -0.0000000062651653, w: 0.1782781}
+      scale: {x: 1, y: 0.9999998, z: 0.9999996}
+    - name: leg front toes hydraulic cylinder 1
+      parentName: leg front toes 3
+      position: {x: -4.416959e-18, y: 0.001621024, z: -5.9604643e-10}
+      rotation: {x: -6.252502e-38, y: 3.5527166e-15, z: 4.6517964e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front toes hydraulic cylinder 1_end
+      parentName: leg front toes hydraulic cylinder 1
+      position: {x: -0, y: 0.001621022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front toes hydraulic cylinder 2
+      parentName: leg front ankle
+      position: {x: -2.4932148e-11, y: 0.0016211855, z: -0.0011588609}
+      rotation: {x: -0.6987806, y: 0.000000006840106, z: 0.000000008351996, w: 0.71533614}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: leg front toes hydraulic cylinder 2_end
+      parentName: leg front toes hydraulic cylinder 2
+      position: {x: -0, y: 0.0011591798, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front ankle hydraulic cylinder 1
+      parentName: leg front knee 2
+      position: {x: -2.3054672e-17, y: 0.018391984, z: -0.0012807064}
+      rotation: {x: 0.9573482, y: -1.9648095e-16, z: -2.1956627e-16, w: -0.28893664}
+      scale: {x: 1, y: 0.99999994, z: 0.99999976}
+    - name: leg front ankle hydraulic cylinder 1_end
+      parentName: leg front ankle hydraulic cylinder 1
+      position: {x: -0, y: 0.0023149783, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front ankle hydraulic cylinder 2
+      parentName: leg front knee 2
+      position: {x: -2.1028837e-17, y: 0.019858167, z: 0.0014857322}
+      rotation: {x: 0.8053221, y: 5.5342913e-17, z: -3.2668258e-16, w: 0.5928375}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: leg front ankle hydraulic cylinder 2_end
+      parentName: leg front ankle hydraulic cylinder 2
+      position: {x: -0, y: 0.0015559841, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front knee hydraulic cylinder
+      parentName: leg front knee 1
+      position: {x: -7.823142e-17, y: 0.005881811, z: 0.00075683714}
+      rotation: {x: 0.9700818, y: -8.939933e-15, z: 4.3481928e-14, w: 0.24277847}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: leg front knee hydraulic cylinder_end
+      parentName: leg front knee hydraulic cylinder
+      position: {x: -0, y: 0.0016067704, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg front thigh hydraulic cylinder
+      parentName: leg front thigh 2
+      position: {x: 1.4801946e-11, y: 0.0044611674, z: 0.00023283392}
+      rotation: {x: 0.9998515, y: 4.8224336e-10, z: -0.00000003178011, w: 0.017232953}
+      scale: {x: 1, y: 1, z: 0.9999644}
+    - name: leg front thigh hydraulic cylinder_end
+      parentName: leg front thigh hydraulic cylinder
+      position: {x: -0, y: 0.0067571616, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back thigh 1
+      parentName: leg b base
+      position: {x: 1.1051133e-23, y: 0.00006330865, z: 0.013055998}
+      rotation: {x: 0.7071256, y: -1.1230504e-22, z: 4.53019e-21, w: 0.70708805}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: leg back thigh 2
+      parentName: leg back thigh 1
+      position: {x: -0, y: 0.009432, z: 5.9612815e-10}
+      rotation: {x: -0.036763627, y: -2.069089e-25, z: 3.704746e-22, w: 0.999324}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back knee 1
+      parentName: leg back thigh 2
+      position: {x: -0, y: 0.01796746, z: 0.00023283421}
+      rotation: {x: 0.21341287, y: 8.674753e-17, z: -3.9710477e-16, w: 0.97696215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back knee 2
+      parentName: leg back knee 1
+      position: {x: 1.3046378e-17, y: 0.008716534, z: 0.00075683533}
+      rotation: {x: -0.18057977, y: -6.19505e-17, z: 4.6213504e-16, w: 0.9835604}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: leg back ankle
+      parentName: leg back knee 2
+      position: {x: 8.9940655e-18, y: 0.022711141, z: 0.00020502399}
+      rotation: {x: 0.37792212, y: 9.83152e-12, z: -0.0000000029967913, w: 0.9258374}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: leg back toes 1
+      parentName: leg back ankle
+      position: {x: 0.00067199994, y: 0.0021744359, z: 0.00022336184}
+      rotation: {x: 0.05543672, y: -0.17155309, z: -0.42424497, w: 0.88741904}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: leg back toes 1_end
+      parentName: leg back toes 1
+      position: {x: -0, y: 0.00091559946, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back toes 2
+      parentName: leg back ankle
+      position: {x: -0.00067199994, y: 0.0021744359, z: 0.00022336184}
+      rotation: {x: 0.05543673, y: 0.17155312, z: 0.4242449, w: 0.8874191}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: leg back toes 2_end
+      parentName: leg back toes 2
+      position: {x: -0, y: 0.00091559946, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back toes 3
+      parentName: leg back ankle
+      position: {x: -5.864258e-12, y: 0.0004061353, z: -0.0016055864}
+      rotation: {x: 0.9839799, y: 0.000000002533455, z: -0.0000000016007564, w: -0.17827952}
+      scale: {x: 1, y: 0.99999994, z: 0.99999976}
+    - name: leg back toes hydraulic cylinder 1
+      parentName: leg back toes 3
+      position: {x: 1.3800237e-17, y: 0.0016210246, z: 5.9604643e-10}
+      rotation: {x: -0.000000022351738, y: -3.3306689e-15, z: 4.6518425e-16, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: leg back toes hydraulic cylinder 1_end
+      parentName: leg back toes hydraulic cylinder 1
+      position: {x: -0, y: 0.0016210201, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back toes hydraulic cylinder 2
+      parentName: leg back ankle
+      position: {x: -6.4043016e-12, y: 0.0016211849, z: 0.0011588621}
+      rotation: {x: 0.6987806, y: 0.0000000063148793, z: 0.000000010030438, w: 0.7153361}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: leg back toes hydraulic cylinder 2_end
+      parentName: leg back toes hydraulic cylinder 2
+      position: {x: -0, y: 0.0011591798, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back ankle hydraulic cylinder 1
+      parentName: leg back knee 2
+      position: {x: 8.446432e-18, y: 0.018391991, z: 0.0012807075}
+      rotation: {x: 0.9573479, y: -1.8689699e-16, z: 1.9763514e-17, w: 0.28893757}
+      scale: {x: 1, y: 0.99999994, z: 0.9999992}
+    - name: leg back ankle hydraulic cylinder 1_end
+      parentName: leg back ankle hydraulic cylinder 1
+      position: {x: -0, y: 0.002314974, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back ankle hydraulic cylinder 2
+      parentName: leg back knee 2
+      position: {x: 8.632332e-18, y: 0.019858176, z: -0.001485731}
+      rotation: {x: -0.8053221, y: 8.9457e-17, z: -9.30934e-18, w: 0.5928375}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: leg back ankle hydraulic cylinder 2_end
+      parentName: leg back ankle hydraulic cylinder 2
+      position: {x: -0, y: 0.0015559841, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back knee hydraulic cylinder
+      parentName: leg back knee 1
+      position: {x: 1.53508e-17, y: 0.00588181, z: -0.0007568377}
+      rotation: {x: 0.9700818, y: 4.124934e-16, z: -9.415807e-17, w: -0.24277847}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: leg back knee hydraulic cylinder_end
+      parentName: leg back knee hydraulic cylinder
+      position: {x: -0, y: 0.0016067704, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg back thigh hydraulic cylinder
+      parentName: leg back thigh 2
+      position: {x: -0, y: 0.0044611683, z: -0.00023283347}
+      rotation: {x: 0.9998515, y: -4.1591128e-16, z: -4.3718046e-18, w: -0.017232953}
+      scale: {x: 1, y: 1, z: 0.9999618}
+    - name: leg back thigh hydraulic cylinder_end
+      parentName: leg back thigh hydraulic cylinder
+      position: {x: -0, y: 0.0067571583, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob base
+      parentName: pelvis 4
+      position: {x: 6.048118e-18, y: 0.004723509, z: 0.0034269143}
+      rotation: {x: -0.5898075, y: -2.6686437e-16, z: -2.7080998e-17, w: 0.8075439}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob  spine lower 3
+      parentName: lower mob base
+      position: {x: 4.811751e-18, y: 0.0041520316, z: 2.2351741e-10}
+      rotation: {x: 9.800126e-10, y: 0.94807225, z: -0.31805503, w: -0.000000079961836}
+      scale: {x: 1, y: 0.9999995, z: 1}
+    - name: lower mob  spine lower 2
+      parentName: lower mob  spine lower 3
+      position: {x: -5.59478e-19, y: 0.0052639996, z: 2.2643723e-10}
+      rotation: {x: 0.000000029802322, y: -0.00000004371138, z: 1.1088749e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob  spine lower 1
+      parentName: lower mob  spine lower 2
+      position: {x: 3.8050307e-24, y: 0.005184003, z: 0}
+      rotation: {x: -4.6643616e-35, y: -0, z: 3.0704944e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob  spine middle 3
+      parentName: lower mob  spine lower 1
+      position: {x: -0, y: 0.0052960073, z: 0}
+      rotation: {x: 0, y: 0, z: 3.1763736e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob  spine middle 2
+      parentName: lower mob  spine middle 3
+      position: {x: -0, y: 0.0051040035, z: 0}
+      rotation: {x: -0.00000004315301, y: -8.9239975e-33, z: 4.96887e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob  spine middle 1
+      parentName: lower mob  spine middle 2
+      position: {x: 6.586758e-18, y: 0.0051200036, z: 9.226636e-10}
+      rotation: {x: 0.000000029802305, y: 2.0149197e-21, z: -4.4408524e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob spine upper
+      parentName: lower mob  spine middle 1
+      position: {x: 2.9902414e-18, y: 0.0038160018, z: -4.3593565e-10}
+      rotation: {x: 0.0000000058265432, y: 0.9129494, z: -0.4080728, w: -0.00000008530106}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: lower mob jaw
+      parentName: lower mob spine upper
+      position: {x: -1.6000302e-10, y: 0.002468742, z: 0.0005885583}
+      rotation: {x: -0.2666903, y: 0.60246664, z: -0.2692925, w: 0.7024185}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: lower mob tooth 1
+      parentName: lower mob jaw
+      position: {x: 0.00015507592, y: 0.007021864, z: -0.00042427133}
+      rotation: {x: -0.52298886, y: 0.26725924, z: -0.47548556, w: 0.654957}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: lower mob tooth 1_end
+      parentName: lower mob tooth 1
+      position: {x: -0, y: 0.00045172463, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob tooth 2
+      parentName: lower mob jaw
+      position: {x: 0.00030991307, y: 0.007090225, z: 0.00076373195}
+      rotation: {x: 0.5263136, y: 0.64407486, z: 0.42597, w: 0.3559653}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: lower mob tooth 2_end
+      parentName: lower mob tooth 2
+      position: {x: -0, y: 0.00082707626, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob tooth 3
+      parentName: lower mob jaw
+      position: {x: -0.00046499207, y: 0.006952419, z: -0.00033945925}
+      rotation: {x: -0.5424469, y: 0.6581372, z: -0.5150968, w: -0.085335895}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: lower mob tooth 3_end
+      parentName: lower mob tooth 3
+      position: {x: -0, y: 0.000579848, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right shoulder 1
+      parentName: lower mob spine upper
+      position: {x: 0.0051999995, y: 0.002553778, z: 0.00058951863}
+      rotation: {x: 0.6455527, y: 0.6455528, z: -0.2885509, w: 0.28855094}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: lower mob arm right shoulder 2
+      parentName: lower mob arm right shoulder 1
+      position: {x: -1.9035853e-10, y: 0.0022720003, z: 1.3739383e-10}
+      rotation: {x: 0.38712192, y: 0.3871219, z: 0.1835563, w: 0.8164438}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right shoulder 3
+      parentName: lower mob arm right shoulder 2
+      position: {x: -0.000000002980232, y: 0.0024901717, z: -0.0000000035762786}
+      rotation: {x: -0.36949232, y: -0.40511236, z: -0.22120357, w: 0.80649143}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: lower mob arm right elbow
+      parentName: lower mob arm right shoulder 3
+      position: {x: 0.0000000010547228, y: 0.011489387, z: -0.0000000016111881}
+      rotation: {x: 0.00076617964, y: 0.0006938742, z: 0.09559068, w: 0.9954202}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: lower mob arm right wrist
+      parentName: lower mob arm right elbow
+      position: {x: -8.821844e-10, y: 0.011930103, z: 2.3041359e-10}
+      rotation: {x: -0.02693322, y: -0.024397135, z: -0.04802025, w: 0.9981851}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: lower mob arm right finger 1a
+      parentName: lower mob arm right wrist
+      position: {x: 0.0008006214, y: 0.00091165054, z: -0.00018667564}
+      rotation: {x: 0.00000003001393, y: 0.03634027, z: -0.70755553, w: 0.7057227}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: lower mob arm right finger 1b
+      parentName: lower mob arm right finger 1a
+      position: {x: -0.0000000017036805, y: 0.0014879997, z: -1.9517156e-10}
+      rotation: {x: 0.00000000896923, y: 0.9999838, z: -0.005700418, w: 0.00000007544801}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: lower mob arm right finger 1c
+      parentName: lower mob arm right finger 1b
+      position: {x: 0.0000000057977108, y: 0.0010175082, z: -0.00000000269688}
+      rotation: {x: 4.656613e-10, y: 0.000000047605646, z: -1.6194755e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 1c_end
+      parentName: lower mob arm right finger 1c
+      position: {x: -0, y: 0.0010175079, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 2a
+      parentName: lower mob arm right wrist
+      position: {x: 0.0009951968, y: 0.0029378464, z: -0.000036059915}
+      rotation: {x: 0.025552552, y: 0.025839625, z: -0.0068786694, w: 0.9993158}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: lower mob arm right finger 2b
+      parentName: lower mob arm right finger 2a
+      position: {x: -7.475481e-10, y: 0.0014320915, z: 5.0493154e-10}
+      rotation: {x: -0.000000029885094, y: 0.000000014734437, z: 0.005586441, w: 0.9999844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 2c
+      parentName: lower mob arm right finger 2b
+      position: {x: 0.0000000030750027, y: 0.0011520014, z: 2.9349616e-11}
+      rotation: {x: -0.0000000149011585, y: 6.7555833e-15, z: 0.000000029802317, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: lower mob arm right finger 2c_end
+      parentName: lower mob arm right finger 2c
+      position: {x: -0, y: 0.0011520004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 3a
+      parentName: lower mob arm right wrist
+      position: {x: 0.00021261036, y: 0.0030347146, z: 0.000009181797}
+      rotation: {x: 0.025763696, y: 0.025629114, z: 0.0013205514, w: 0.9993386}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: lower mob arm right finger 3b
+      parentName: lower mob arm right finger 3a
+      position: {x: 0.0000000033845045, y: 0.0015280194, z: 2.1963159e-10}
+      rotation: {x: -0.000000014866969, y: 0.000000013077485, z: -0.002618232, w: 0.9999966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 3c
+      parentName: lower mob arm right finger 3b
+      position: {x: 0.0000000022079334, y: 0.0012639995, z: 8.9277163e-10}
+      rotation: {x: -0.000000014901158, y: 7.050727e-15, z: 0.000000029802315, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 3c_end
+      parentName: lower mob arm right finger 3c
+      position: {x: -0, y: 0.001264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 4a
+      parentName: lower mob arm right wrist
+      position: {x: -0.000641309, y: 0.0029626626, z: 0.00007344633}
+      rotation: {x: 0.0256965, y: 0.025696479, z: -0.001295954, w: 0.9993387}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: lower mob arm right finger 4b
+      parentName: lower mob arm right finger 4a
+      position: {x: 0.0000000025502673, y: 0.001400001, z: -9.04167e-11}
+      rotation: {x: -0.000000029802315, y: 0.000000011175872, z: 0.000000029802315,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: lower mob arm right finger 4c
+      parentName: lower mob arm right finger 4b
+      position: {x: 0.000000002031399, y: 0.001160004, z: -8.0784046e-10}
+      rotation: {x: 0.000000014901155, y: 8.834947e-15, z: -0.000000029802312, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 4c_end
+      parentName: lower mob arm right finger 4c
+      position: {x: -0, y: 0.0011600017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 5a
+      parentName: lower mob arm right wrist
+      position: {x: -0.0013671067, y: 0.0027538051, z: 0.00014010846}
+      rotation: {x: 0.025696496, y: 0.025696477, z: -0.0012959099, w: 0.9993387}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: lower mob arm right finger 5b
+      parentName: lower mob arm right finger 5a
+      position: {x: 0.0000000034492926, y: 0.0010800001, z: 3.1866277e-11}
+      rotation: {x: -0.000000029802314, y: 0.000000013038519, z: -2.4286694e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 5c
+      parentName: lower mob arm right finger 5b
+      position: {x: 0.0000000031013738, y: 0.0009200013, z: -6.2714867e-10}
+      rotation: {x: -7.994907e-16, y: 5.995205e-15, z: 0.000000029802315, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm right finger 5c_end
+      parentName: lower mob arm right finger 5c
+      position: {x: -0, y: 0.0009200001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left shoulder 1
+      parentName: lower mob spine upper
+      position: {x: -0.0051999995, y: 0.0025537773, z: 0.00058951724}
+      rotation: {x: 0.64555275, y: -0.64555275, z: 0.28855106, w: 0.2885508}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: lower mob arm left shoulder 2
+      parentName: lower mob arm left shoulder 1
+      position: {x: 1.2473032e-10, y: 0.0022720003, z: -1.2520206e-10}
+      rotation: {x: 0.38712192, y: -0.38712186, z: -0.18355632, w: 0.8164438}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left shoulder 3
+      parentName: lower mob arm left shoulder 2
+      position: {x: -0.000000002980232, y: 0.0024901738, z: -0.0000000032782554}
+      rotation: {x: -0.36949238, y: 0.40511236, z: 0.22120355, w: 0.8064914}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: lower mob arm left elbow
+      parentName: lower mob arm left shoulder 3
+      position: {x: -0.000000002682209, y: 0.011489385, z: 1.1641532e-10}
+      rotation: {x: 0.00076621847, y: -0.0006938921, z: -0.09559066, w: 0.9954202}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: lower mob arm left wrist
+      parentName: lower mob arm left elbow
+      position: {x: -0.0000000020988489, y: 0.011930105, z: 1.869846e-10}
+      rotation: {x: -0.026933223, y: 0.024397135, z: 0.048020247, w: 0.9981851}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: lower mob arm left finger 1a
+      parentName: lower mob arm left wrist
+      position: {x: -0.0008006217, y: 0.000911652, z: -0.00018667743}
+      rotation: {x: 0.000000019489839, y: -0.036340233, z: 0.7075554, w: 0.70572287}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: lower mob arm left finger 1b
+      parentName: lower mob arm left finger 1a
+      position: {x: -0.0000000032940195, y: 0.0014879998, z: 1.3011023e-10}
+      rotation: {x: -0.000000010905263, y: 0.99998367, z: -0.0057148943, w: -0.00000007543681}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 1c
+      parentName: lower mob arm left finger 1b
+      position: {x: 0.0000000014615491, y: 0.0010175378, z: -0.000000001300865}
+      rotation: {x: 0.0000000011641532, y: -0.000000051215032, z: 3.0660513e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 1c_end
+      parentName: lower mob arm left finger 1c
+      position: {x: -0, y: 0.0010175369, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 2a
+      parentName: lower mob arm left wrist
+      position: {x: -0.0009951971, y: 0.002937848, z: -0.000036061705}
+      rotation: {x: 0.025552526, y: -0.025839629, z: 0.0068785935, w: 0.9993158}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: lower mob arm left finger 2b
+      parentName: lower mob arm left finger 2a
+      position: {x: 0.000000002305575, y: 0.0014320922, z: -2.098508e-10}
+      rotation: {x: -0.00000002986429, y: -0.000000011009213, z: -0.005586413, w: 0.9999844}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: lower mob arm left finger 2c
+      parentName: lower mob arm left finger 2b
+      position: {x: 3.0275285e-10, y: 0.0011520016, z: 3.5614647e-10}
+      rotation: {x: 0.000000014901159, y: -4.37583e-15, z: 0.000000029802319, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 2c_end
+      parentName: lower mob arm left finger 2c
+      position: {x: -0, y: 0.0011520004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 3a
+      parentName: lower mob arm left wrist
+      position: {x: -0.00021261066, y: 0.0030347183, z: 0.000009180009}
+      rotation: {x: 0.025763674, y: -0.025629112, z: -0.0013206122, w: 0.9993386}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: lower mob arm left finger 3b
+      parentName: lower mob arm left finger 3a
+      position: {x: -9.827817e-10, y: 0.001528019, z: 0.0000000011991182}
+      rotation: {x: 0.000000029836354, y: -0.000000012960438, z: 0.0026182914, w: 0.9999966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 3c
+      parentName: lower mob arm left finger 3b
+      position: {x: 0.0000000022226028, y: 0.0012640014, z: -2.833221e-10}
+      rotation: {x: -0.000000014901158, y: -5.4115758e-15, z: 8.390283e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 3c_end
+      parentName: lower mob arm left finger 3c
+      position: {x: -0, y: 0.001264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 4a
+      parentName: lower mob arm left wrist
+      position: {x: 0.0006413088, y: 0.002962666, z: 0.0000734444}
+      rotation: {x: 0.025696475, y: -0.025696479, z: 0.0012958748, w: 0.9993387}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: lower mob arm left finger 4b
+      parentName: lower mob arm left finger 4a
+      position: {x: -0.0000000013986954, y: 0.0014000019, z: 9.731511e-10}
+      rotation: {x: 0.000000014901159, y: -0.000000009313229, z: 0.000000089406946,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 4c
+      parentName: lower mob arm left finger 4b
+      position: {x: -0.000000001628588, y: 0.001160001, z: 4.027157e-10}
+      rotation: {x: 8.640796e-19, y: -4.9979556e-15, z: -0.000000029802317, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: lower mob arm left finger 4c_end
+      parentName: lower mob arm left finger 4c
+      position: {x: -0, y: 0.0011600017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 5a
+      parentName: lower mob arm left wrist
+      position: {x: 0.0013671065, y: 0.0027538063, z: 0.00014010667}
+      rotation: {x: 0.025696475, y: -0.025696477, z: 0.0012958421, w: 0.9993387}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: lower mob arm left finger 5b
+      parentName: lower mob arm left finger 5a
+      position: {x: -0.000000003777339, y: 0.001080004, z: 8.9584806e-10}
+      rotation: {x: 0.000000014901159, y: -0.000000011175871, z: 0.000000089406946,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 5c
+      parentName: lower mob arm left finger 5b
+      position: {x: -0.0000000017447702, y: 0.000920002, z: 4.3835982e-10}
+      rotation: {x: 1.0277781e-16, y: -5.120037e-15, z: 1.3530849e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob arm left finger 5c_end
+      parentName: lower mob arm left finger 5c
+      position: {x: -0, y: 0.0009200001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower mob oral
+      parentName: lower mob spine upper
+      position: {x: 1.5230385e-10, y: 0.0027632606, z: -0.0017675966}
+      rotation: {x: -0.67067075, y: 0.000000007715217, z: -0.00000006476371, w: 0.7417552}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: lower mob oral_end
+      parentName: lower mob oral
+      position: {x: -0, y: 0.0017765735, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt a base
+      parentName: pelvis 1
+      position: {x: -0.000000007818237, y: -0.0029886717, z: -0.0014131084}
+      rotation: {x: 0.662366, y: -0.02221292, z: -0.013476158, w: 0.7487298}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front middle 1
+      parentName: unused metal skirt a base
+      position: {x: -2.4716172e-15, y: 0.00040809053, z: -0.010896001}
+      rotation: {x: -0.41230673, y: 8.0137143e-14, z: 9.8661374e-14, w: 0.9110451}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front middle 2
+      parentName: metal skirt front middle 1
+      position: {x: -1.9453269e-20, y: 0.008327277, z: 0.0000000011920929}
+      rotation: {x: 0.09609887, y: 0.00081526587, z: -0.0029618086, w: 0.9953671}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: metal skirt front middle 3
+      parentName: metal skirt front middle 2
+      position: {x: -1.1528511e-17, y: 0.008609146, z: 0.0000000011920929}
+      rotation: {x: 0.09089506, y: -2.7405587e-17, z: -3.8955837e-16, w: 0.9958605}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: metal skirt front middle 4
+      parentName: metal skirt front middle 3
+      position: {x: 1.2171463e-18, y: 0.008809049, z: 0.0000000023841857}
+      rotation: {x: -0.36435935, y: 0.019281872, z: 0.01899268, w: 0.9308651}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt front middle 5
+      parentName: metal skirt front middle 4
+      position: {x: 1.8351189e-17, y: 0.0083185, z: 5.9604643e-10}
+      rotation: {x: 0.07771959, y: 9.918106e-19, z: 5.569496e-17, w: 0.9969753}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front middle 6
+      parentName: metal skirt front middle 5
+      position: {x: -1.8892655e-19, y: 0.008392429, z: 0.0000000027567149}
+      rotation: {x: 0.0000000018626454, y: 1.6940142e-21, z: -1.3857056e-17, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: metal skirt front middle 6_end
+      parentName: metal skirt front middle 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back middle 1
+      parentName: unused metal skirt a base
+      position: {x: 2.4833308e-15, y: 0.00040790217, z: 0.010895998}
+      rotation: {x: 0.41231468, y: 1.2701052e-13, z: 4.9125476e-15, w: 0.91104156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back middle 2
+      parentName: metal skirt back middle 1
+      position: {x: 1.7749809e-17, y: 0.008327277, z: -0.0000000011920929}
+      rotation: {x: -0.17562376, y: -4.332333e-17, z: -2.4430532e-16, w: 0.9844574}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: metal skirt back middle 3
+      parentName: metal skirt back middle 2
+      position: {x: -9.513973e-18, y: 0.008609148, z: 0.0000000023841857}
+      rotation: {x: -0.090895034, y: -2.2529377e-17, z: 2.461567e-16, w: 0.9958605}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt back middle 4
+      parentName: metal skirt back middle 3
+      position: {x: 1.777266e-17, y: 0.008809048, z: -0.0000000011920929}
+      rotation: {x: -0.05719111, y: 3.0674233e-18, z: 5.430928e-17, w: 0.99836326}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: metal skirt back middle 5
+      parentName: metal skirt back middle 4
+      position: {x: 1.6837392e-17, y: 0.008318498, z: -0.000000001490116}
+      rotation: {x: -0.07771959, y: -2.6679077e-19, z: -1.1122338e-16, w: 0.9969753}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back middle 6
+      parentName: metal skirt back middle 5
+      position: {x: 1.8268342e-17, y: 0.008392428, z: 0.0000000017881393}
+      rotation: {x: 9.313226e-10, y: -3.3880284e-21, z: 5.5447293e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back middle 6_end
+      parentName: metal skirt back middle 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt b base
+      parentName: pelvis 1
+      position: {x: -0.0000000073597395, y: -0.0029886717, z: -0.0014131084}
+      rotation: {x: 0.21212476, y: 0.0000005390202, z: -0.0000006907189, w: 0.9772426}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: metal skirt back right b 1
+      parentName: unused metal skirt b base
+      position: {x: 0.005448006, y: 0.00040797546, z: 0.009436209}
+      rotation: {x: 0.38552555, y: 0.14618796, z: -0.14618804, w: 0.8992376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right b 2
+      parentName: metal skirt back right b 1
+      position: {x: -5.9604643e-10, y: 0.008327279, z: 0.0000000023841857}
+      rotation: {x: -0.1697742, y: -0.056608442, z: 0.04494841, w: 0.9828285}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: metal skirt back right b 3
+      parentName: metal skirt back right b 2
+      position: {x: 8.9406965e-10, y: 0.008609148, z: -0.0000000011920929}
+      rotation: {x: -0.085374765, y: -0.033811912, z: 0.031194115, w: 0.9952863}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: metal skirt back right b 4
+      parentName: metal skirt back right b 3
+      position: {x: 0.0000000017881393, y: 0.008809049, z: -0.0000000035762786}
+      rotation: {x: -0.052503526, y: -0.023413032, z: 0.022677315, w: 0.99808866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right b 5
+      parentName: metal skirt back right b 4
+      position: {x: 5.2154064e-10, y: 0.008318498, z: 0.0000000017881393}
+      rotation: {x: -0.06941809, y: -0.035105873, z: 0.034948032, w: 0.996357}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt back right b 6
+      parentName: metal skirt back right b 5
+      position: {x: 3.632158e-10, y: 0.00839243, z: -7.264316e-10}
+      rotation: {x: 0.000000012289092, y: 0.0000000032159733, z: 0.0000000015279511,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right b 6_end
+      parentName: metal skirt back right b 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front left a 1
+      parentName: unused metal skirt b base
+      position: {x: -0.005448006, y: 0.000408017, z: -0.009436209}
+      rotation: {x: -0.26274776, y: -0.3177471, z: 0.31774664, w: 0.8538369}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt front left a 2
+      parentName: metal skirt front left a 1
+      position: {x: 0.0000000011920929, y: 0.008327278, z: 0.0000000023841857}
+      rotation: {x: 0.08875087, y: 0.19086157, z: -0.1515484, w: 0.9657786}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: metal skirt front left a 3
+      parentName: metal skirt front left a 2
+      position: {x: 8.9406965e-10, y: 0.008609147, z: -0.0000000020861626}
+      rotation: {x: 0.06484082, y: 0.069044754, z: -0.063698895, w: 0.9934641}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt front left a 4
+      parentName: metal skirt front left a 3
+      position: {x: -2.9802322e-10, y: 0.0088090515, z: -1.4901161e-10}
+      rotation: {x: 0.044814557, y: 0.03668435, z: -0.035531733, w: 0.99768907}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: metal skirt front left a 5
+      parentName: metal skirt front left a 4
+      position: {x: -5.9604643e-10, y: 0.008318499, z: -0.0000000011920929}
+      rotation: {x: 0.06457914, y: 0.04343777, z: -0.043242484, w: 0.9960285}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: metal skirt front left a 6
+      parentName: metal skirt front left a 5
+      position: {x: -7.543713e-10, y: 0.00839243, z: -0.0000000017136335}
+      rotation: {x: 0.000000011554221, y: 0.000000009982614, z: 0.0000000057480065,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front left a 6_end
+      parentName: metal skirt front left a 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt c base
+      parentName: pelvis 1
+      position: {x: -0.000000008612377, y: -0.002988672, z: -0.0014131077}
+      rotation: {x: 0.212125, y: 0.00000019287836, z: -0.00000046804809, w: 0.9772425}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt front left b 1
+      parentName: unused metal skirt c base
+      position: {x: -0.009436221, y: 0.00040801556, z: -0.005447986}
+      rotation: {x: -0.022547046, y: -0.41169348, z: 0.41169304, w: 0.812717}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: metal skirt front left b 2
+      parentName: metal skirt front left b 1
+      position: {x: -0.0000000035762786, y: 0.008327279, z: 5.9604643e-10}
+      rotation: {x: -0.03347635, y: 0.21712653, z: -0.17240386, w: 0.96021473}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: metal skirt front left b 3
+      parentName: metal skirt front left b 2
+      position: {x: -0.0000000011920929, y: 0.008609151, z: 6.3329936e-10}
+      rotation: {x: 0.01168019, y: 0.09770691, z: -0.09014166, w: 0.9910557}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt front left b 4
+      parentName: metal skirt front left b 3
+      position: {x: -0.0000000011920929, y: 0.008809049, z: -0.000000001490116}
+      rotation: {x: 0.016021734, y: 0.0566815, z: -0.054900687, w: 0.996753}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: metal skirt front left b 5
+      parentName: metal skirt front left b 4
+      position: {x: -0.000000001490116, y: 0.008318502, z: -2.2351741e-10}
+      rotation: {x: 0.031160973, y: 0.07152063, z: -0.07119902, w: 0.99440664}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: metal skirt front left b 6
+      parentName: metal skirt front left b 5
+      position: {x: 1.8626451e-11, y: 0.008392432, z: -5.5879353e-11}
+      rotation: {x: -9.313226e-10, y: -0.0000000065774657, z: 0.00000002606248, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front left b 6_end
+      parentName: metal skirt front left b 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right a 1
+      parentName: unused metal skirt c base
+      position: {x: 0.00943622, y: 0.0004079768, z: 0.0054479865}
+      rotation: {x: 0.3050775, y: 0.27736017, z: -0.2773601, w: 0.86779636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right a 2
+      parentName: metal skirt back right a 1
+      position: {x: 5.9604643e-10, y: 0.008327282, z: 5.9604643e-10}
+      rotation: {x: -0.15015467, y: -0.114719994, z: 0.0910903, w: 0.9777502}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: metal skirt back right a 3
+      parentName: metal skirt back right a 2
+      position: {x: 5.9604643e-10, y: 0.008609142, z: 0.000000002980232}
+      rotation: {x: -0.067855984, y: -0.065551646, z: 0.060476247, w: 0.99370074}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: metal skirt back right a 4
+      parentName: metal skirt back right a 3
+      position: {x: -8.9406965e-10, y: 0.0088090515, z: 0.0000000017881393}
+      rotation: {x: -0.0382667, y: -0.04388158, z: 0.042502888, w: 0.9973984}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt back right a 5
+      parentName: metal skirt back right a 4
+      position: {x: 2.9802322e-10, y: 0.008318499, z: 0.0000000010430813}
+      rotation: {x: -0.045505457, y: -0.06328911, z: 0.063004434, w: 0.9949645}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: metal skirt back right a 6
+      parentName: metal skirt back right a 5
+      position: {x: -0.0000000013597309, y: 0.008392429, z: 6.7986544e-10}
+      rotation: {x: 0.000000017724233, y: -0.0000000025320332, z: -0.000000013591489,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back right a 6_end
+      parentName: metal skirt back right a 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt d base
+      parentName: pelvis 1
+      position: {x: -0.0000000069012427, y: -0.0029886712, z: -0.0014131091}
+      rotation: {x: 0.21212584, y: -0.00000012927349, z: -0.00000026080934, w: 0.97724235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt right 1
+      parentName: unused metal skirt d base
+      position: {x: 0.010895999, y: 0.00040797613, z: -0.00000002063178}
+      rotation: {x: 0.16999996, y: 0.37563345, z: -0.37563396, w: 0.8299992}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt right 2
+      parentName: metal skirt right 1
+      position: {x: 0.0000000024004838, y: 0.008327279, z: 0.000000002880115}
+      rotation: {x: -0.10953266, y: -0.17289403, z: 0.13728178, w: 0.9691563}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: metal skirt right 3
+      parentName: metal skirt right 2
+      position: {x: -0.0000000035890844, y: 0.00860915, z: 7.543713e-10}
+      rotation: {x: -0.03588769, y: -0.09051882, z: 0.083510384, w: 0.9917381}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: metal skirt right 4
+      parentName: metal skirt right 3
+      position: {x: 7.1944667e-10, y: 0.008809046, z: 4.400499e-10}
+      rotation: {x: -0.014572045, y: -0.057097696, z: 0.055303723, w: 0.9967292}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt right 5
+      parentName: metal skirt right 4
+      position: {x: -1.9965227e-10, y: 0.008318497, z: 7.427297e-10}
+      rotation: {x: -0.009505717, y: -0.077484354, z: 0.07713591, w: 0.9939597}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt right 6
+      parentName: metal skirt right 5
+      position: {x: -5.5952114e-11, y: 0.008392426, z: 6.286427e-11}
+      rotation: {x: 0.0000000011463033, y: -0.0000000071431723, z: -0.000000007688323,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt right 6_end
+      parentName: metal skirt right 6
+      position: {x: -0, y: 0.008392426, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt left 1
+      parentName: unused metal skirt d base
+      position: {x: -0.010895999, y: 0.0004080162, z: 0.000000020631502}
+      rotation: {x: 0.16999994, y: -0.37563223, z: 0.37563217, w: 0.8300006}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: metal skirt left 2
+      parentName: metal skirt left 1
+      position: {x: -0, y: 0.008327277, z: 4.353933e-10}
+      rotation: {x: -0.109532595, y: 0.17289405, z: -0.13728184, w: 0.9691563}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: metal skirt left 3
+      parentName: metal skirt left 2
+      position: {x: -1.7811544e-10, y: 0.008609152, z: -9.778887e-10}
+      rotation: {x: -0.03588778, y: 0.0905188, z: -0.0835104, w: 0.9917381}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: metal skirt left 4
+      parentName: metal skirt left 3
+      position: {x: 0.0000000023149187, y: 0.008809047, z: -6.938353e-10}
+      rotation: {x: -0.014572033, y: 0.05709769, z: -0.05530366, w: 0.9967292}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: metal skirt left 5
+      parentName: metal skirt left 4
+      position: {x: -8.66421e-10, y: 0.008318496, z: -2.6542693e-10}
+      rotation: {x: -0.009505724, y: 0.07748433, z: -0.077135935, w: 0.9939597}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: metal skirt left 6
+      parentName: metal skirt left 5
+      position: {x: 4.328467e-10, y: 0.008392426, z: 1.0826625e-10}
+      rotation: {x: -0.000000001825192, y: 0.000000007607015, z: 0.0000000017904832,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt left 6_end
+      parentName: metal skirt left 6
+      position: {x: -0, y: 0.008392426, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt e base
+      parentName: pelvis 1
+      position: {x: -0.0000000070240986, y: -0.002988671, z: -0.0014131096}
+      rotation: {x: 0.21212512, y: 0.0000004841862, z: -0.0000006554459, w: 0.9772425}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt front right b 1
+      parentName: unused metal skirt e base
+      position: {x: 0.009436208, y: 0.00040799408, z: -0.005448008}
+      rotation: {x: -0.022546947, y: 0.41169444, z: -0.411694, w: 0.8127161}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt front right b 2
+      parentName: metal skirt front right b 1
+      position: {x: 0.0000000017881393, y: 0.008327282, z: 0.0000000017881393}
+      rotation: {x: -0.033476997, y: -0.21712746, z: 0.17240393, w: 0.9602145}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: metal skirt front right b 3
+      parentName: metal skirt front right b 2
+      position: {x: -0.0000000011920929, y: 0.008609148, z: 2.6077032e-10}
+      rotation: {x: 0.011681007, y: -0.0977056, z: 0.090140924, w: 0.9910559}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: metal skirt front right b 4
+      parentName: metal skirt front right b 3
+      position: {x: 0.0000000020861626, y: 0.008809049, z: -0.0000000011920929}
+      rotation: {x: 0.016021498, y: -0.056682084, z: 0.054901198, w: 0.9967529}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: metal skirt front right b 5
+      parentName: metal skirt front right b 4
+      position: {x: -0.0000000017881393, y: 0.008318498, z: 7.4505804e-11}
+      rotation: {x: 0.031161033, y: -0.07152064, z: 0.07119902, w: 0.99440664}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: metal skirt front right b 6
+      parentName: metal skirt front right b 5
+      position: {x: -0.0000000029243528, y: 0.008392428, z: -4.5634804e-10}
+      rotation: {x: -0.000000005122274, y: -0.000000010506483, z: 0.00000001169974,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front right b 6_end
+      parentName: metal skirt front right b 6
+      position: {x: -0, y: 0.008392427, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back left a 1
+      parentName: unused metal skirt e base
+      position: {x: -0.009436209, y: 0.0004079983, z: 0.0054480084}
+      rotation: {x: 0.30507734, y: -0.2773595, z: 0.2773589, w: 0.86779696}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: metal skirt back left a 2
+      parentName: metal skirt back left a 1
+      position: {x: 5.9604643e-10, y: 0.00832728, z: 5.9604643e-10}
+      rotation: {x: -0.15015477, y: 0.11472004, z: -0.091090344, w: 0.9777502}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: metal skirt back left a 3
+      parentName: metal skirt back left a 2
+      position: {x: 0.0000000017881393, y: 0.008609147, z: 0}
+      rotation: {x: -0.067855954, y: 0.06555158, z: -0.060476255, w: 0.99370074}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: metal skirt back left a 4
+      parentName: metal skirt back left a 3
+      position: {x: 5.9604643e-10, y: 0.008809045, z: 8.9406965e-10}
+      rotation: {x: -0.03826669, y: 0.0438816, z: -0.04250283, w: 0.9973984}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    - name: metal skirt back left a 5
+      parentName: metal skirt back left a 4
+      position: {x: -4.4703483e-10, y: 0.008318499, z: 0.0000000016391277}
+      rotation: {x: -0.045505427, y: 0.06328911, z: -0.063004434, w: 0.9949645}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: metal skirt back left a 6
+      parentName: metal skirt back left a 5
+      position: {x: 0.0000000015646219, y: 0.008392427, z: -1.8626451e-11}
+      rotation: {x: -0.0000000016298145, y: 0.000000011132215, z: -0.0000000053987605,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt back left a 6_end
+      parentName: metal skirt back left a 6
+      position: {x: -0, y: 0.008392427, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused metal skirt f base
+      parentName: pelvis 1
+      position: {x: -0.0000000073597417, y: -0.002988671, z: -0.0014131098}
+      rotation: {x: 0.2121245, y: 0.0000005390203, z: -0.0000006907192, w: 0.97724265}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: metal skirt front right a 1
+      parentName: unused metal skirt f base
+      position: {x: 0.005447993, y: 0.00040801428, z: -0.009436217}
+      rotation: {x: -0.26274735, y: 0.317748, z: -0.31774712, w: 0.8538366}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: metal skirt front right a 2
+      parentName: metal skirt front right a 1
+      position: {x: 0.0000000023841857, y: 0.008327274, z: 5.9604643e-10}
+      rotation: {x: 0.08875057, y: -0.19086167, z: 0.15154842, w: 0.9657786}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999999}
+    - name: metal skirt front right a 3
+      parentName: metal skirt front right a 2
+      position: {x: -0, y: 0.008609151, z: 0.000000002682209}
+      rotation: {x: 0.06484094, y: -0.0690447, z: 0.06369886, w: 0.9934641}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: metal skirt front right a 4
+      parentName: metal skirt front right a 3
+      position: {x: -5.9604643e-10, y: 0.008809056, z: 1.4901161e-10}
+      rotation: {x: 0.044815134, y: -0.0366843, z: 0.035531785, w: 0.997689}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: metal skirt front right a 5
+      parentName: metal skirt front right a 4
+      position: {x: -0.000000001490116, y: 0.008318501, z: 8.9406965e-10}
+      rotation: {x: 0.06457776, y: -0.0434378, z: 0.043242406, w: 0.9960286}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: metal skirt front right a 6
+      parentName: metal skirt front right a 5
+      position: {x: -2.8871e-10, y: 0.00839243, z: -0.000000003259629}
+      rotation: {x: 0.000000012587407, y: -0.000000013693352, z: 0.0000000014115358,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt front right a 6_end
+      parentName: metal skirt front right a 6
+      position: {x: -0, y: 0.00839243, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back left b 1
+      parentName: unused metal skirt f base
+      position: {x: -0.005447993, y: 0.00040797816, z: 0.009436217}
+      rotation: {x: 0.38552585, y: -0.1461877, z: 0.14618705, w: 0.89923763}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: metal skirt back left b 2
+      parentName: metal skirt back left b 1
+      position: {x: -5.9604643e-10, y: 0.008327279, z: 1.4901161e-10}
+      rotation: {x: -0.16977441, y: 0.056608528, z: -0.044948433, w: 0.98282844}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: metal skirt back left b 3
+      parentName: metal skirt back left b 2
+      position: {x: -2.9802322e-10, y: 0.008609146, z: 4.4703483e-10}
+      rotation: {x: -0.08537465, y: 0.033811916, z: -0.031194028, w: 0.99528635}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: metal skirt back left b 4
+      parentName: metal skirt back left b 3
+      position: {x: -0, y: 0.008809051, z: 1.4901161e-10}
+      rotation: {x: -0.052503556, y: 0.023413027, z: -0.02267735, w: 0.99808866}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: metal skirt back left b 5
+      parentName: metal skirt back left b 4
+      position: {x: -2.2351741e-10, y: 0.008318496, z: 8.1956386e-10}
+      rotation: {x: -0.06941807, y: 0.035105873, z: -0.034948017, w: 0.996357}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: metal skirt back left b 6
+      parentName: metal skirt back left b 5
+      position: {x: 0.0000000010430813, y: 0.008392431, z: -0.00000000115484}
+      rotation: {x: -0.0000000042127795, y: 0.0000000028667273, z: -8.58563e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: metal skirt back left b 6_end
+      parentName: metal skirt back left b 6
+      position: {x: -0, y: 0.008392429, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root ground
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

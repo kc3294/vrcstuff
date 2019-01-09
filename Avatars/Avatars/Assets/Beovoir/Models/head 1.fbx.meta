@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: d7e93fe94feaabd4aab027d9783511ce
+timeCreated: 1538095929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: chain left 1
+    100006: chain left 2
+    100008: chain left 3
+    100010: chain left 4
+    100012: chain left 4_end
+    100014: chain right 1
+    100016: chain right 2
+    100018: chain right 3
+    100020: chain right 4
+    100022: chain right 4_end
+    100024: doll root
+    100026: //RootNode
+    100028: unused metal skirt a base
+    100030: unused metal skirt a base_end
+    100032: unused metal skirt b base
+    100034: unused metal skirt b base_end
+    100036: unused metal skirt c base
+    100038: unused metal skirt c base_end
+    100040: unused metal skirt d base
+    100042: unused metal skirt d base_end
+    100044: unused metal skirt e base
+    100046: unused metal skirt e base_end
+    100048: unused metal skirt f base
+    100050: unused metal skirt f base_end
+    400000: Armature
+    400002: Body
+    400004: chain left 1
+    400006: chain left 2
+    400008: chain left 3
+    400010: chain left 4
+    400012: chain left 4_end
+    400014: chain right 1
+    400016: chain right 2
+    400018: chain right 3
+    400020: chain right 4
+    400022: chain right 4_end
+    400024: doll root
+    400026: //RootNode
+    400028: unused metal skirt a base
+    400030: unused metal skirt a base_end
+    400032: unused metal skirt b base
+    400034: unused metal skirt b base_end
+    400036: unused metal skirt c base
+    400038: unused metal skirt c base_end
+    400040: unused metal skirt d base
+    400042: unused metal skirt d base_end
+    400044: unused metal skirt e base
+    400046: unused metal skirt e base_end
+    400048: unused metal skirt f base
+    400050: unused metal skirt f base_end
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

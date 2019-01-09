@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakiMakiMaki", "MakiMakiMaki.csproj", "{AA51209E-19DA-0DB0-651A-71C524FB6961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakiMakiMaki.Editor", "MakiMakiMaki.Editor.csproj", "{167BEECA-BA61-62B4-F495-9470D057CA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA51209E-19DA-0DB0-651A-71C524FB6961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA51209E-19DA-0DB0-651A-71C524FB6961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA51209E-19DA-0DB0-651A-71C524FB6961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA51209E-19DA-0DB0-651A-71C524FB6961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167BEECA-BA61-62B4-F495-9470D057CA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167BEECA-BA61-62B4-F495-9470D057CA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167BEECA-BA61-62B4-F495-9470D057CA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167BEECA-BA61-62B4-F495-9470D057CA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: ade0ccec5cac8534b8102ee53d9d3ad2
+timeCreated: 1538098140
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: leg a base
+    100006: leg a base_end
+    100008: leg b base
+    100010: leg b base_end
+    100012: metal skirt back left a 1
+    100014: metal skirt back left a 2
+    100016: metal skirt back left a 3
+    100018: metal skirt back left a 4
+    100020: metal skirt back left a 5
+    100022: metal skirt back left a 6
+    100024: metal skirt back left a 6_end
+    100026: metal skirt back left b 1
+    100028: metal skirt back left b 2
+    100030: metal skirt back left b 3
+    100032: metal skirt back left b 4
+    100034: metal skirt back left b 5
+    100036: metal skirt back left b 6
+    100038: metal skirt back left b 6_end
+    100040: metal skirt back middle 1
+    100042: metal skirt back middle 2
+    100044: metal skirt back middle 3
+    100046: metal skirt back middle 4
+    100048: metal skirt back middle 5
+    100050: metal skirt back middle 6
+    100052: metal skirt back middle 6_end
+    100054: metal skirt back right a 1
+    100056: metal skirt back right a 2
+    100058: metal skirt back right a 3
+    100060: metal skirt back right a 4
+    100062: metal skirt back right a 5
+    100064: metal skirt back right a 6
+    100066: metal skirt back right a 6_end
+    100068: metal skirt back right b 1
+    100070: metal skirt back right b 2
+    100072: metal skirt back right b 3
+    100074: metal skirt back right b 4
+    100076: metal skirt back right b 5
+    100078: metal skirt back right b 6
+    100080: metal skirt back right b 6_end
+    100082: metal skirt front left a 1
+    100084: metal skirt front left a 2
+    100086: metal skirt front left a 3
+    100088: metal skirt front left a 4
+    100090: metal skirt front left a 5
+    100092: metal skirt front left a 6
+    100094: metal skirt front left a 6_end
+    100096: metal skirt front left b 1
+    100098: metal skirt front left b 2
+    100100: metal skirt front left b 3
+    100102: metal skirt front left b 4
+    100104: metal skirt front left b 5
+    100106: metal skirt front left b 6
+    100108: metal skirt front left b 6_end
+    100110: metal skirt front middle 1
+    100112: metal skirt front middle 2
+    100114: metal skirt front middle 3
+    100116: metal skirt front middle 4
+    100118: metal skirt front middle 5
+    100120: metal skirt front middle 6
+    100122: metal skirt front middle 6_end
+    100124: metal skirt front right a 1
+    100126: metal skirt front right a 2
+    100128: metal skirt front right a 3
+    100130: metal skirt front right a 4
+    100132: metal skirt front right a 5
+    100134: metal skirt front right a 6
+    100136: metal skirt front right a 6_end
+    100138: metal skirt front right b 1
+    100140: metal skirt front right b 2
+    100142: metal skirt front right b 3
+    100144: metal skirt front right b 4
+    100146: metal skirt front right b 5
+    100148: metal skirt front right b 6
+    100150: metal skirt front right b 6_end
+    100152: metal skirt left 1
+    100154: metal skirt left 2
+    100156: metal skirt left 3
+    100158: metal skirt left 4
+    100160: metal skirt left 5
+    100162: metal skirt left 6
+    100164: metal skirt left 6_end
+    100166: metal skirt right 1
+    100168: metal skirt right 2
+    100170: metal skirt right 3
+    100172: metal skirt right 4
+    100174: metal skirt right 5
+    100176: metal skirt right 6
+    100178: metal skirt right 6_end
+    100180: pelvis 1
+    100182: pelvis 2
+    100184: pelvis 3
+    100186: pelvis 5
+    100188: root hips
+    100190: //RootNode
+    100192: skirt back left a 1
+    100194: skirt back left a 2
+    100196: skirt back left a 3
+    100198: skirt back left a 4
+    100200: skirt back left a 4_end
+    100202: skirt back left b 1
+    100204: skirt back left b 2
+    100206: skirt back left b 3
+    100208: skirt back left b 4
+    100210: skirt back left b 4_end
+    100212: skirt back middle 1
+    100214: skirt back middle 2
+    100216: skirt back middle 3
+    100218: skirt back middle 4
+    100220: skirt back middle 4_end
+    100222: skirt back right a 1
+    100224: skirt back right a 2
+    100226: skirt back right a 3
+    100228: skirt back right a 4
+    100230: skirt back right a 4_end
+    100232: skirt back right b 1
+    100234: skirt back right b 2
+    100236: skirt back right b 3
+    100238: skirt back right b 4
+    100240: skirt back right b 4_end
+    100242: skirt front left a 1
+    100244: skirt front left a 2
+    100246: skirt front left a 3
+    100248: skirt front left a 4
+    100250: skirt front left a 4_end
+    100252: skirt front left b 1
+    100254: skirt front left b 2
+    100256: skirt front left b 3
+    100258: skirt front left b 4
+    100260: skirt front left b 4_end
+    100262: skirt front middle 1
+    100264: skirt front middle 2
+    100266: skirt front middle 3
+    100268: skirt front middle 4
+    100270: skirt front middle 4_end
+    100272: skirt front right a 1
+    100274: skirt front right a 2
+    100276: skirt front right a 3
+    100278: skirt front right a 4
+    100280: skirt front right a 4_end
+    100282: skirt front right b 1
+    100284: skirt front right b 2
+    100286: skirt front right b 3
+    100288: skirt front right b 4
+    100290: skirt front right b 4_end
+    100292: skirt root
+    100294: unused metal skirt a base
+    100296: unused metal skirt b base
+    100298: unused metal skirt c base
+    100300: unused metal skirt d base
+    100302: unused metal skirt e base
+    100304: unused metal skirt f base
+    400000: Armature
+    400002: Body
+    400004: leg a base
+    400006: leg a base_end
+    400008: leg b base
+    400010: leg b base_end
+    400012: metal skirt back left a 1
+    400014: metal skirt back left a 2
+    400016: metal skirt back left a 3
+    400018: metal skirt back left a 4
+    400020: metal skirt back left a 5
+    400022: metal skirt back left a 6
+    400024: metal skirt back left a 6_end
+    400026: metal skirt back left b 1
+    400028: metal skirt back left b 2
+    400030: metal skirt back left b 3
+    400032: metal skirt back left b 4
+    400034: metal skirt back left b 5
+    400036: metal skirt back left b 6
+    400038: metal skirt back left b 6_end
+    400040: metal skirt back middle 1
+    400042: metal skirt back middle 2
+    400044: metal skirt back middle 3
+    400046: metal skirt back middle 4
+    400048: metal skirt back middle 5
+    400050: metal skirt back middle 6
+    400052: metal skirt back middle 6_end
+    400054: metal skirt back right a 1
+    400056: metal skirt back right a 2
+    400058: metal skirt back right a 3
+    400060: metal skirt back right a 4
+    400062: metal skirt back right a 5
+    400064: metal skirt back right a 6
+    400066: metal skirt back right a 6_end
+    400068: metal skirt back right b 1
+    400070: metal skirt back right b 2
+    400072: metal skirt back right b 3
+    400074: metal skirt back right b 4
+    400076: metal skirt back right b 5
+    400078: metal skirt back right b 6
+    400080: metal skirt back right b 6_end
+    400082: metal skirt front left a 1
+    400084: metal skirt front left a 2
+    400086: metal skirt front left a 3
+    400088: metal skirt front left a 4
+    400090: metal skirt front left a 5
+    400092: metal skirt front left a 6
+    400094: metal skirt front left a 6_end
+    400096: metal skirt front left b 1
+    400098: metal skirt front left b 2
+    400100: metal skirt front left b 3
+    400102: metal skirt front left b 4
+    400104: metal skirt front left b 5
+    400106: metal skirt front left b 6
+    400108: metal skirt front left b 6_end
+    400110: metal skirt front middle 1
+    400112: metal skirt front middle 2
+    400114: metal skirt front middle 3
+    400116: metal skirt front middle 4
+    400118: metal skirt front middle 5
+    400120: metal skirt front middle 6
+    400122: metal skirt front middle 6_end
+    400124: metal skirt front right a 1
+    400126: metal skirt front right a 2
+    400128: metal skirt front right a 3
+    400130: metal skirt front right a 4
+    400132: metal skirt front right a 5
+    400134: metal skirt front right a 6
+    400136: metal skirt front right a 6_end
+    400138: metal skirt front right b 1
+    400140: metal skirt front right b 2
+    400142: metal skirt front right b 3
+    400144: metal skirt front right b 4
+    400146: metal skirt front right b 5
+    400148: metal skirt front right b 6
+    400150: metal skirt front right b 6_end
+    400152: metal skirt left 1
+    400154: metal skirt left 2
+    400156: metal skirt left 3
+    400158: metal skirt left 4
+    400160: metal skirt left 5
+    400162: metal skirt left 6
+    400164: metal skirt left 6_end
+    400166: metal skirt right 1
+    400168: metal skirt right 2
+    400170: metal skirt right 3
+    400172: metal skirt right 4
+    400174: metal skirt right 5
+    400176: metal skirt right 6
+    400178: metal skirt right 6_end
+    400180: pelvis 1
+    400182: pelvis 2
+    400184: pelvis 3
+    400186: pelvis 5
+    400188: root hips
+    400190: //RootNode
+    400192: skirt back left a 1
+    400194: skirt back left a 2
+    400196: skirt back left a 3
+    400198: skirt back left a 4
+    400200: skirt back left a 4_end
+    400202: skirt back left b 1
+    400204: skirt back left b 2
+    400206: skirt back left b 3
+    400208: skirt back left b 4
+    400210: skirt back left b 4_end
+    400212: skirt back middle 1
+    400214: skirt back middle 2
+    400216: skirt back middle 3
+    400218: skirt back middle 4
+    400220: skirt back middle 4_end
+    400222: skirt back right a 1
+    400224: skirt back right a 2
+    400226: skirt back right a 3
+    400228: skirt back right a 4
+    400230: skirt back right a 4_end
+    400232: skirt back right b 1
+    400234: skirt back right b 2
+    400236: skirt back right b 3
+    400238: skirt back right b 4
+    400240: skirt back right b 4_end
+    400242: skirt front left a 1
+    400244: skirt front left a 2
+    400246: skirt front left a 3
+    400248: skirt front left a 4
+    400250: skirt front left a 4_end
+    400252: skirt front left b 1
+    400254: skirt front left b 2
+    400256: skirt front left b 3
+    400258: skirt front left b 4
+    400260: skirt front left b 4_end
+    400262: skirt front middle 1
+    400264: skirt front middle 2
+    400266: skirt front middle 3
+    400268: skirt front middle 4
+    400270: skirt front middle 4_end
+    400272: skirt front right a 1
+    400274: skirt front right a 2
+    400276: skirt front right a 3
+    400278: skirt front right a 4
+    400280: skirt front right a 4_end
+    400282: skirt front right b 1
+    400284: skirt front right b 2
+    400286: skirt front right b 3
+    400288: skirt front right b 4
+    400290: skirt front right b 4_end
+    400292: skirt root
+    400294: unused metal skirt a base
+    400296: unused metal skirt b base
+    400298: unused metal skirt c base
+    400300: unused metal skirt d base
+    400302: unused metal skirt e base
+    400304: unused metal skirt f base
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
